@@ -1,0 +1,1 @@
+Go [https://ctechfilmuniversity.github.io/lecture_ss24_academic_methodologies/](https://ctechfilmuniversity.github.io/lecture_ss24_academic_methodologies/)
