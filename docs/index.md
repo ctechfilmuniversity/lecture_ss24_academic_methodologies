@@ -134,8 +134,8 @@ The requirements to pass the course are
 
 There will be a grade. The grade is computed as follows:
 
-* 10% for participation in class and homework assignments
-* 65% for the paper
+* 15% for participation in class and homework assignments
+* 60% for the paper
 * 15% for the presentation
 * 10% for the reviews
 

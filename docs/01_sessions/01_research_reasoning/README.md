@@ -10,7 +10,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ## Session 01 - Introduction
 
-Going through the scripts and answering the questions should take < 2h. If you need longer, please let me know next class.
+Reading the scripts and preparing questions should take < 2h. If you need longer, please let me know next class.
 
 * [Session 01 - Introduction](#session-01---introduction)
 * [Topics \& Syllabus](#topics--syllabus)
