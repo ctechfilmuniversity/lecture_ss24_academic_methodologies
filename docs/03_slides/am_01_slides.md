@@ -258,7 +258,7 @@ template: inverse
 *  But to give you a counter-example: you can come up with the most beautiful explanation for flying pigs - but no one will care as this theory is of no relevance to the world. Previous research has shown (e.g. based on the anatomy of pigs and continuos observations) that pigs can not fly. 
 
 --
-Researchers aim to make novel contributions that are of relevance to the knowledge of the world.
+> Researchers aim to make novel contributions that are of relevance to the knowledge of the world.
 
 
 ???
@@ -272,18 +272,28 @@ Researchers aim to make novel contributions that are of relevance to the knowled
 
 ## Positive Examples
 
---
+---
+.header[Research | Goals]
 
-![ex_pos_01](../02_scripts/img/02/ex_pos_01a.png)
+## Positive Examples
+
+<img src="../02_scripts/img/02/ex_pos_01a.png" alt="ex_pos_01a" style="width:50%;">
+
 
 ---
 .header[Research | Goals]
 
 ## Positive Examples
 
-![ex_pos_01](../02_scripts/img/02/ex_pos_01.png)
+<img src="../02_scripts/img/02/ex_pos_01.png" alt="ex_pos_01" style="width:50%;">
 
---
+---
+.header[Research | Goals]
+
+## Positive Examples
+
+<img src="../02_scripts/img/02/ex_pos_01.png" alt="ex_pos_01" style="width:30%;">
+
 > If I have seen further, it is by standing on the shoulders of giants. - Isaac Newton
 
 ---
@@ -293,7 +303,8 @@ Researchers aim to make novel contributions that are of relevance to the knowled
 
 --
 
-![ex_pos_02](../02_scripts/img/02/ex_pos_02a.png)
+<img src="../02_scripts/img/02/ex_pos_02a.png" alt="ex_pos_02a" style="width:60%;">
+
 
 ---
 
@@ -301,8 +312,8 @@ Researchers aim to make novel contributions that are of relevance to the knowled
 
 ## Positive Examples
 
+<img src="../02_scripts/img/02/ex_pos_02.png" alt="ex_pos_02" style="width:60%;">
 
-![ex_pos_02](../02_scripts/img/02/ex_pos_02.png)
 
 
 ???
@@ -320,14 +331,16 @@ Researchers aim to make novel contributions that are of relevance to the knowled
 
 --
 
-![ex_neg_01](../02_scripts/img/02/ex_neg_01a.png)
+<img src="../02_scripts/img/02/ex_neg_01a.png" alt="ex_neg_01a" style="width:55%;">
+
 
 ---
 .header[Research | Goals]
 
 ## Negative Examples
 
-![ex_neg_01](../02_scripts/img/02/ex_neg_01.png)
+<img src="../02_scripts/img/02/ex_neg_01.png" alt="ex_neg_01" style="width:55%;">
+
 
 ---
 .header[Research | Goals]
@@ -336,14 +349,16 @@ Researchers aim to make novel contributions that are of relevance to the knowled
 
 --
 
-![ex_neg_02](../02_scripts/img/02/ex_neg_02a.png)
+<img src="../02_scripts/img/02/ex_neg_02a.png" alt="ex_neg_02a" style="width:60%;">
+
 
 ---
 .header[Research | Goals]
 
 ## Negative Examples
 
-![ex_neg_02](../02_scripts/img/02/ex_neg_02.png)
+<img src="../02_scripts/img/02/ex_neg_02.png" alt="ex_neg_02" style="width:60%;">
+
 
 ---
 .header[Research]
@@ -458,7 +473,7 @@ template:inverse
 ---
 .header[Research]
 
-### Fundamental vs. Applied Research
+## Fundamental vs. Applied Research
 
 Name one possible research problem 
 
@@ -522,7 +537,7 @@ Example Proof
 
 Examples of “real-life” research are user studies and case studies, which "look at the actual world" and systematically investigate a phenomenon within its real-life context.
 
-.center[<img src="../02_scripts/img/02/xkcd_06.png" alt="xkcd_06" style="width:95%;">[[scienceisbeauty]](https://scienceisbeauty.tumblr.com/)]
+.center[<img src="../02_scripts/img/02/xkcd_06.png" alt="xkcd_06" style="width:70%;">[[scienceisbeauty]](https://scienceisbeauty.tumblr.com/)]
 
 
 
@@ -548,7 +563,7 @@ Different research types, disciplines and venues have different standards, metho
 ---
 template:inverse
 
-## Problem Solving
+# Problem Solving
 
 ---
 ## Research
@@ -583,7 +598,7 @@ Hence, research is foremost about attitude and effort.
 
 ---
 
-.center[<img src="../02_scripts/img/02/research_01.png" alt="research_01" style="width:42%;">]
+.center[<img src="../02_scripts/img/02/research_01.png" alt="research_01" style="width:32%;">]
 
 ---
 .header[Research]
@@ -640,11 +655,11 @@ All applied methods must be carefully planned, adhere to academic standards and 
 
 --
 
-Being value-neutral means that methods should not favor any outcome and be as open-ended as possible.
 
 ???
 .task[COMMENT:]  
 
+* Being value-neutral means that methods should not favor any outcome and be as open-ended as possible.
 * Usually, these methods help you to collect samples and data, which are relevant to your research. They can also support analysis, explanations and discussion.
 
 
@@ -662,7 +677,10 @@ We are aiming for a deeper understanding in academia and need to not only execut
 
 This is usually done in the *motivation*, *discussion* and *evaluation* sections of a publication.  
 
---
+---
+.header[Research]
+
+## Methodology
 
 You will need to answer questions, such as:
 
