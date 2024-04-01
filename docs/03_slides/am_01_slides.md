@@ -10,7 +10,9 @@ class: center, middle, inverse
 
 #### Film University Babelsberg KONRAD WOLF
 
+---
 
+# Master Thesis Preparation!
 
 ---
 layout: false
@@ -18,7 +20,7 @@ layout: false
 ## Today
 
 --
-* ACS FUB 2023
+* ACS FUB
 
 --
 * Course setup
@@ -33,7 +35,7 @@ template:inverse
 
 ### Academic Conference Simulation at the Film University Babelsberg KONRAD WOLF
 
-# ACS FUB 2023
+# ACS FUB
 
 
 ???
@@ -42,7 +44,7 @@ template:inverse
 * The overall goal of this lecture is to help you to conduct your own research projects. Please keep in mind that we will start small with your projects and papers. 
 
 ---
-## ACS FUB 2023
+## ACS FUB 2024
 
 --
 * Practical exercise for academic research processes
@@ -71,7 +73,7 @@ The simulation includes
 * A best paper award
 
 ---
-.header[ACS FUB 2023]
+.header[ACS FUB 2024]
 
 ## The Paper
 
@@ -83,7 +85,7 @@ The simulation includes
     * In real life: should make an academic contribution
 
 ---
-.header[ACS FUB 2023 | The Paper]
+.header[ACS FUB 2024 | The Paper]
 
 ## Topic
 
@@ -94,7 +96,7 @@ The simulation includes
 * The research itself does not need to be a new task
 
 --
-* The paper can relate to your 1st term project or Bachelor thesis 
+* The paper can relate to your 1st term project, Bachelor thesis, or any other already existing project
 
 
 ???
@@ -102,8 +104,13 @@ The simulation includes
 
 * I highly recommend to try to come up with a topic in the context of your 1st term project as you have already put in a lot of thought and effort into it and it might have a greater chance of publication with an accompanying practical implementation. There are plenty of more practical and / or artistic oriented venues.
 
+--
+    * The paper must include a substantial amount of original writing
+    * You can not re-use a short-paper
+    * You can not re-use something that is already published
+
 ---
-.header[ACS FUB 2023 | The Paper]
+.header[ACS FUB 2024 | The Paper]
 
 ## Format
 
@@ -129,7 +136,7 @@ Submission
 * https://easychair.org/conferences/submissions?a=26977916
 
 ---
-.header[ACS FUB 2023]
+.header[ACS FUB 2024]
 
 ## Reviews
 
@@ -146,7 +153,7 @@ Submission
 * If there are revision requests, these must be worked in for the final version of the paper
 
 ---
-.header[ACS FUB 2023]
+.header[ACS FUB 2024]
 
 ## Deadlines
 

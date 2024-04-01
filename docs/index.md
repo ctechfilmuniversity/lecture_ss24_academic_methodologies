@@ -61,7 +61,9 @@ As exercise a full conference will be simulated in all its parts, from submittin
 
 ## Method of Instruction
 
-The class is conducted as lectures. Attendance is not mandatory. Lecture use in parts flipped classroom techniques. This means, you read a script before I present that topic in class. In class, I will then ask questions regarding the script and go over certain topics one more time together.
+The class is conducted as lectures. The lecture uses flipped classroom techniques. This means, you read a script before I present that topic in class. In class, we will then discuss the topic and you can ask questions. There might be additional written homework regarding the paper and its preparation.
+  
+Class attendance is mandatory, three sessions can be missed without notice.
   
 The paper, the reviews and exercises are homework.  
   
@@ -104,7 +106,7 @@ Please note that the chapters and their order are subject to change!
 ## Materials
 
 * On Thursday all session materials are published for the following week.
-* Usually, we will discuss the results of the assignments the following week.
+* The reading assignment has to be done for the following week.
 * You hand in all materials through GitHub.
 
 ### Structure
@@ -121,14 +123,12 @@ Materials are structured as follows:
 
 The requirements to pass the course are
 
-* \>= 50% completed homework assignments,
+* class participation and / or script summaries,
 * a written paper,
 * reviews of the assigned papers,
 * a conference presentation, and
 * participation at the conference discussions.
 
-You can hand in homework results up until July 31st to make them count (this is a hard deadline).   
-However, if you hand in an exercise after the deadline that is given in a session, **15% of the total points will reduced** (e.g. for 10 points 1.5 points are reduced).
 
 ## Grading
 

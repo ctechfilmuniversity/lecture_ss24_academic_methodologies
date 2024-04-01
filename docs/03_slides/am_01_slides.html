@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="keywords" content="remark,remarkjs,markdown,slideshow,presentation" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Academic Methodologies</title>
+    <title>Procedural Generation and Simulation</title>
     <style>
         /* Local files */
         @import url("remark/fonts.css");
@@ -43,15 +43,16 @@
     
     <!-- Local copy -->
     <script src="remark/remark.language.js"></script>
-    <script>
+
+       <script>
         var slideshow = remark.create({
+            ratio: '16:9',
+            countIncrementalSlides: false,
             highlightStyle: 'monokai',
-            highlightLanguage: 'remark',
-            highlightLines: true,
-            sourceUrl: './am_ss23_01_slides.md'
+            highlightLanguage: 'javascript',
+            sourceUrl: './am_01_slides.md'
         });
     </script>
-    <!-- removed the google analytics script -->
 </body>
 
 </html>

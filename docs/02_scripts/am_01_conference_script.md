@@ -8,13 +8,13 @@ nav_exclude: true
 
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
 
-## Chapter 01: ACS FUB 2023
+## Chapter 01: ACS FUB
 
-![acsfub_2023](../02_scripts/img/01/acsfub_2023.png)
+![acsfub_2023](../02_scripts/img/01/acsfub_2024.png)
 
 
 * [Academic Methodologies](#academic-methodologies)
-    * [Chapter 01: ACS FUB 2023](#chapter-01-acs-fub-2023)
+    * [Chapter 01: ACS FUB](#chapter-01-acs-fub)
     * [Introduction](#introduction)
     * [The Paper](#the-paper)
         * [Topic](#topic)
@@ -57,10 +57,10 @@ The paper must follow the format guidelines otherwise it is not accepted.
 *The links in the following guidelines will be added at a later time.*
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2023). The submission is open now.
+* Submissions will be made electronically through the [EasyChair submission system]()(*link to be added*). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/09_paper/acsfubPublStyle_2023.zip).
-    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2023.saarland-informatics-campus.de/) conference, with this [original submission template](../01_sessions/09_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
+* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/00_paper/acsfubPublStyle_2024.zip).
+    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2024.cyens.org.cy/) conference, with this [original submission template](../01_sessions/00_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
     * **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.**
     * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. 
     * Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen for demonstrating the layout).
@@ -96,27 +96,19 @@ The reviews might give revisions and these must be considered in the final camer
 
 | Time  | Presenter               | Topic                                                                                                                 |
 | ----- | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 10:00 | Codrin Podoleanu        | Usability inspection of a transit application through the lens of Bret Victor's user interface theory                 |
-| 11:00 | Katja Schreiber         | Imaginary Horizons: AI-driven content generation and strategy development on Instagram through ChatGPT and MidJourney |
-| 12:00 | Marco Braune            | Automated video editing: A five-point ratio scale for comparing levels of automation in video editing tools           |
-| 14:00 | Adi Aviram              | The Future of Tarot: Fortune Prediction and Spirituality in the Digital Age                                           |
-| 15:00 | Elena Vasilkova         | Visualizing Aurora: Exploring the Theoretical Blueprint and Creative Potential of the Aurora Visual Synthesizer       |
-| 16:00 | Andreea-Cristina Mircea | Apart, but Connected: Digital Performance as a Space of Collective Resonance                                          |
+
 
 
 
 ## Deadlines
 
-Deadlines still might change.
-
 All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 
-* 29.08.23: Abstract Due
-* 05.09.23: Paper Due
-* 08.09.23: Review Start
-* 28.09.23: Review Due
-* 30.09.23: Author Notification
-* 24.10.23: Camera-ready Paper Due  
+* 30.08.23: Abstract Due
+* 06.09.23: Paper Due
+* 10.09.23: Review Start
+* 27.09.23: Review Due
+* 01.10.23: Author Notification
 * tba: Conference
   
 
