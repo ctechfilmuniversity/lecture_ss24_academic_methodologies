@@ -654,10 +654,10 @@ template:inverse
 * Research is a skill and it can be learned
 
 --
-* You have to be curious, motivated, creative, and 
+* You have to be curious, motivated, and creative
 
 --
-* stress resistant.
+* You have to be willing to work with the unknown and be stress resistant
 
 --
   
