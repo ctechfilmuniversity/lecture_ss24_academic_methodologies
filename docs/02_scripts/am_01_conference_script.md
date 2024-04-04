@@ -18,6 +18,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Introduction](#introduction)
     * [The Paper](#the-paper)
         * [Topic](#topic)
+        * [ChatGPT \& Co.](#chatgpt--co)
         * [Format](#format)
         * [Submission](#submission)
     * [Reviews](#reviews)
@@ -41,6 +42,11 @@ The paper must adhere to an academic format (e.g. introduction, contributions, r
 ### Topic
 
 You can write about any topic of your choice within the field of Creative Technologies. Research questions can for example relate to your 1st term project or Bachelor thesis. The research itself does not need to be a new task. I highly recommend to try to come up with a topic in the context of your 1st term project as you have already put in a lot of thought and effort into it and it might have a greater chance of publication with an accompanying practical implementation. There are plenty of more practical and / or artistic oriented venues.
+
+
+### ChatGPT & Co.
+
+You are allowed to use any tool you want. However, reflect on when it makes sense to utilize a tool and when not. Within the class you should learn academic thinking, work and writing and not only how to use ChatGPT.
 
 ### Format
 
@@ -90,7 +96,7 @@ The reviews might give revisions and these must be considered in the final camer
 ## Presentations
 
 * Your presentation must be 20 minutes.
-* After each presentation there will be about 10 minutes for questions from the audience.
+* After each presentation there will be about 10 minutes for questions from Lena and 10 minutes for questions from the audience.
 
 ### Presentation Schedule
 

@@ -17,6 +17,53 @@ class: center, middle, inverse
 ---
 layout: false
 
+
+
+.center[<img src="../02_scripts/img/02/pigs.png" alt="pigs" style="width:90%;"> .imgref[[[tes]](https://www.tes.com/lessons/t7r8HisPgaaW0A/flying-pigs)]]
+
+---
+
+.center[<img src="../02_scripts/img/10/pub_process_01.jpg" alt="pub_process_01" style="width:36%;"> .imgref[[[wikipedia]](https://en.wikipedia.org/wiki/Journal_des_s%C3%A7avans#/media/File:1665_journal_des_scavans_title.jpg)] <img src="../02_scripts/img/10/pub_process_02.jpg" alt="pub_process_02" style="width:40%;"> .imgref[[[wikipedia]](https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society#/media/File:Philosophical_Transactions_Volume_1_frontispiece.jpg)]]
+
+---
+## Topics
+
+
+--
+
+* Conference Simulation 
+--
+
+* Research              
+--
+
+* Reasoning             
+--
+
+* HCI                   
+--
+
+* Experiments           
+--
+
+* Statistics            
+--
+
+* Qualitative Research  
+--
+
+* Literature            
+--
+
+* Academic Writing      
+--
+
+* Academic Publishing   
+--
+
+* Academic Careers      
+
+---
 ## Today
 
 --
@@ -47,13 +94,13 @@ template:inverse
 ## ACS FUB 2024
 
 --
-* Practical exercise for academic research processes
+* Practical exercise for academic writing (your master thesis)
 
 --
 * Replication of a typical process of submitting a research paper
 
 --
-* Application of all lecture topics
+* Application of the lecture topics
 
 --
 
@@ -109,6 +156,18 @@ The simulation includes
     * You can not re-use a short-paper
     * You can not re-use something that is already published
 
+
+---
+.header[ACS FUB 2024 | The Paper]
+
+## ChatGPT & Co.
+
+* You are allowed to use any tool you want
+
+--
+
+> What do you want to learn with this class? 
+
 ---
 .header[ACS FUB 2024 | The Paper]
 
@@ -155,19 +214,36 @@ Submission
 ---
 .header[ACS FUB 2024]
 
+## Reviews
+
+* Originality, Novelty
+* Clarity of presentation
+* Technical and/or methodological soundness
+* Importance, utility
+* Could this approach be re-implemented by a graduate student?
+* Completeness of References
+* Best Paper Award
+
+
+---
+.header[ACS FUB 2024]
+
 ## Deadlines
 
 --
 All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 
 --
-* 29.08.23: Abstract Due
-* 05.09.23: Paper Due
-* 08.09.23: Review Start
-* 28.09.23: Review Due
-* 30.09.23: Author Notification
-* October 23 (tba): Camera-ready Paper Due
-* October 23 (tba): Conference presentation
+* 30.08.23: Abstract Due
+* 06.09.23: Paper Due
+* 10.09.23: Review Start
+* 27.09.23: Review Due
+* 01.10.23: Author Notification
+* tba: Conference
+
+--
+
+Unfortunately deadline extensions due to illness will be difficult. If you get sick close to the deadline, please get in touch with me asap.
 
 
 ---
@@ -533,11 +609,17 @@ Example Proof
 
 ---
 
-## Real vs. Imaginary
 
-Examples of “real-life” research are user studies and case studies, which "look at the actual world" and systematically investigate a phenomenon within its real-life context.
+.center[<img src="../02_scripts/img/02/xkcd_06.png" alt="xkcd_06" style="width:95%;">  
+.imgref[[[scienceisbeauty]](https://scienceisbeauty.tumblr.com/)]]
 
-.center[<img src="../02_scripts/img/02/xkcd_06.png" alt="xkcd_06" style="width:70%;">[[scienceisbeauty]](https://scienceisbeauty.tumblr.com/)]
+
+???
+.task[COMMENT:]  
+
+Real vs. Imaginary
+* Examples of “real-life” research are user studies and case studies, which "look at the actual world" and systematically investigate a phenomenon within its real-life context.
+
 
 
 
@@ -684,13 +766,27 @@ This is usually done in the *motivation*, *discussion* and *evaluation* sections
 
 You will need to answer questions, such as:
 
+--
 * Why is a particular research study undertaken?
+
+--
 * How did you formulate the research problem?
+
+--
 * How are you solving the problem and why is that a suitable approach?
+
+--
 * What types of data did you collected, why?
+
+--
 * What particular methods have been used, why?
+
+--
 * How do you validate your methods?
+
+--
 * How do you validate your insights and results?
+
 
 
 ???

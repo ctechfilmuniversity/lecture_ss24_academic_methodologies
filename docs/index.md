@@ -26,6 +26,9 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Evaluation](#evaluation)
     * [Grading](#grading)
         * [Criteria](#criteria)
+    * [Policies](#policies)
+    * [Inclusivity Statement](#inclusivity-statement)
+    * [Stress Culture](#stress-culture)
 
 <!--
 ASK: Method vs. Methodology
@@ -63,7 +66,7 @@ As exercise a full conference will be simulated in all its parts, from submittin
 
 The class is conducted as lectures. The lecture uses flipped classroom techniques. This means, you read a script before I present that topic in class. In class, we will then discuss the topic and you can ask questions. There might be additional written homework regarding the paper and its preparation.
   
-Class attendance is mandatory, three sessions can be missed without notice.
+Class attendance is non-mandatory, but there is a grade for participation. If you let me know in advance you can substitute class participation with written homework.
   
 The paper, the reviews and exercises are homework.  
   
@@ -117,7 +120,7 @@ Materials are structured as follows:
     * The [README.md](01_sessions/01_research/README.md) in each session folder gives you an overview of all the readings, assignments, practical exercises, etc. that you have to do for that week - it is your todo list! I recommend to start your work with going through that file.
 * In [`Scripts`](02_scripts) you find all scripts.
 * In [`Slides`](03_slides) you find all slides.
-* In `assignments` you submit your work each week to the folder with your last name and a folder with the session index. You will submit all assignments to the same folder (the one with your last name).
+* In [`Submissions`](04_submissions) you submit your work each week to the folder with your last name and a folder with the session index. You will submit all assignments to the same folder (the one with your last name).
 
 ## Evaluation
 
@@ -160,3 +163,32 @@ The grading criteria for the presentation are based on
 * a coherence to an academic format, and
 * the form of presentation.
 
+
+## Policies
+
+* **Plagiarism**: You have to follow academic standards for all usage of given text, insights, etc. It is categorically forbidden to outsource work to people outside the course or copy & paste, meaning plagiarize, text without citations. 
+* **Tools and utilities**: You are allowed to use any tools you want, also ChatGPT. Please make sure to utilize such tools for supporting your learning, not for just producing a result. 
+* **Absences**: you are responsible for what happens in class whether you are here or not. I will not repeat content for you that you have missed because you were not in class.
+* **Participation**: you are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Also, you can exist for a few hours without chatting, texting or emailing on your notebook. I will notice if you don't pay attention and prefer that you only come to class if you are actually participating. 
+* **Recording**: There are no recordings of the classes. No student may record any classroom activity without express written consent from me. If you have a disability such that you think you need to record or tape classroom activities, get in touch with me.
+
+
+[*Adapted from P. Pedercini with permission.*]
+
+## Inclusivity Statement
+
+It is my intent that students from all diverse backgrounds and perspectives be well served by this course, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  
+
+It is my intent to present activities that accommodate and value a diversity of gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. I will gladly honor your request to address you by your preferred name and gender pronoun. I commit to make individual arrangements to address disabilities or religious needs (e.g. religious events in conflict with class meetings and deadlines). Please advise me of these preferences and needs early in the semester so that I may make appropriate changes to my plans and records.  
+
+Debate and free exchange of ideas is encouraged, but I will not tolerate harassment, i.e. a pattern of behavior directed against a particular individual with the intent of humiliating or intimidating.
+
+[*Adapted from P. Pedercini with permission.*]
+
+## Stress Culture
+
+This class is demanding as I want you to further develop your skills, thinking and views of the world. This is hard. Also, as we are an interdisciplinary group, there is probably for each topic someone who you think is doing a much better job than you. Please focus on your own journey and trust the process.
+  
+Nevertheless, take care of yourself. All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available at Filmuni, and an important part of the university experience is learning how to ask for help. If you or anyone you know experiences any unbearable academic stress, difficult life events, or feelings like anxiety or depression, I strongly encourage you to seek support. The Filmuni offers different [services and counseling](https://www.filmuniversitaet.de/en/university/counseling-services) for you. 
+
+[*Adapted from P. Pedercini with permission.*]
