@@ -29,7 +29,9 @@ This is a topic I had a lot of thoughts about while I was working on my First Te
 
 **How could you solve those questions?**
 
-This research would require a multidisciplinary approach involving legal analysis, technological understanding and ethical considerations. Therefore there would be the need to engage with creators, technologists and legal experts to debate about it. 
+- Multidisplinary approach involving legal analysis, technological understanding and ethical considerations
+- Implementing technology-based solutions for tracking and managing ownership of AI-generated works.
+- Developing new legal frameworks tailored to AI-generated content 
 
 
 ## New Media and Sustainability
