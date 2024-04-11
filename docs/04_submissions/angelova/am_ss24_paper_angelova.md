@@ -1,4 +1,10 @@
-# Academic Methodologies SoSe24
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
+# Academic Methodologies
 
 ## Task 01.02 - Topic Selection
 
