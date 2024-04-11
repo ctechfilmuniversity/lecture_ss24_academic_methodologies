@@ -434,9 +434,9 @@ The following examples are *formal fallacies* or *syllogistic fallacies* and wit
     * All A are B. All A are C. Therefore, all C are B.
     * Unspoken but incorrect assumption: All C are A.
     * *All New Yorkers are beautiful. All New Yorkers are intelligent. Therefore all intelligent people are beautiful.*
-    * *Pie is good. Pie is unhealthy. Thus, all good things are unhealthy..*
+    * *Pie is good. Pie is unhealthy. Thus, all good things are unhealthy.*
 * Undistributed Middle
-    * All A is B. All C is B. Therefore all C is A.
+    * All A are B. All C are B. Therefore all C are A.
     * B is assumed to cover all items in its category.
     * *All humans are mammals. Mary is a mammal. Therefore, Mary is a human.*
     * *All ghosts are imaginary. All unicorns are imaginary. Therefore, all ghosts are unicorns.*
