@@ -1,9 +1,16 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
 Marek Plichta
 
 Topics:
 1. Gameplay mechanics in a specific video game genre
 or
 2. UX/UI Design in a specific video game genre
+3. LLMs in game design (probably too hard)
 
 What specifically interests you within that topic?
 - How various games approach similar problems (for example 2D camera movement or a fishing mechanic) and implement it in different ways and how this affects the broader gameplay
