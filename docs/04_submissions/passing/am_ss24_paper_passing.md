@@ -1,4 +1,10 @@
-# Task 01 - Topic Brainstorming & Topic Selection 
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
+# Task 01 - Topic Brainstorming & Topic Selection
 
 - Implementation of some algorithm in Rust
 
@@ -12,3 +18,11 @@
 
   I have some experience around the topic now but would like to do more research on what happened during and post pandemic to the "digital theater" especially with participatory concepts.
   And also think and write about what I/ we came up with in the process. So maybe state-of-the-art-ish but also writing about works I was involved with?
+
+## Task 02 - The Storyline of Your Paper
+
+- What kinds of plant interaction exist for a performative/ installative setting?
+
+- How can we generate real-time data from plants for audiovisual use?
+
+- Evaluating methods of plant interaction by material cost and skill-level
