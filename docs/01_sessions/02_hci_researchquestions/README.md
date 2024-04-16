@@ -13,13 +13,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 Reading the scripts and preparing questions should take < 2h. If you need longer, please let me know next class.
 
 * [Session 02 - HCI](#session-02---hci)
-* [HCI \& Finding a Research Question](#hci--finding-a-research-question)
+* [HCI and Finding a Research Question](#hci-and-finding-a-research-question)
 * [Your Paper](#your-paper)
     * [Task 02.01 - The Storyline of Your Paper](#task-0201---the-storyline-of-your-paper)
 
 
 
-## HCI & Finding a Research Question
+## HCI and Finding a Research Question
 
 * Read [Chapter 04 - HCI](../../02_scripts/am_ss23_04_hci_script.md)
 

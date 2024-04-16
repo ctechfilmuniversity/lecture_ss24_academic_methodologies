@@ -13,7 +13,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 Reading the scripts and preparing questions should take < 2h. If you need longer, please let me know next class.
 
 * [Session 01 - Introduction](#session-01---introduction)
-* [Topics \& Syllabus](#topics--syllabus)
+* [Topics and Syllabus](#topics-and-syllabus)
 * [ACS FUB 2024](#acs-fub-2024)
 * [Research](#research)
 * [Reasoning](#reasoning)
@@ -22,7 +22,7 @@ Reading the scripts and preparing questions should take < 2h. If you need longer
     * [Task 01.02 - Topic Selection](#task-0102---topic-selection)
 
 
-## Topics & Syllabus
+## Topics and Syllabus
 
 Recap the [Syllabus](../../index.md) of this class.
 
