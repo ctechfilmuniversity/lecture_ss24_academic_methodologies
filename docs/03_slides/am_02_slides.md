@@ -114,8 +114,6 @@ You can categorize problems as
 * Hard problems: you need *strategies* for coming up with a potential solution, sometimes even for just getting started.
 
 
----
-
 ## Research
 
 What are the differences between research method(s) and methodology?

@@ -13,7 +13,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 * [Session 00](00_paper)
 * [Session 01](01_research_reasoning/README.md)
-
+* [Session 03](02_hci_reasoning/README.md)
   
 
 <!-- 

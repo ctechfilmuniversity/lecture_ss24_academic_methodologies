@@ -1,2 +1,4 @@
 
-docs/04_submissions/.DS_Store
+*/.DS_Store
+.DS_Store
+.gitignore
