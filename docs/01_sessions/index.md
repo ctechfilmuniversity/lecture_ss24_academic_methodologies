@@ -17,7 +17,6 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
   
 
 <!-- 
-* [Session 02](02_hci/README.md)
 * [Session 03](03_experiments/README.md)
 * [Session 04](04_statistics/README.md)
 * [Session 05](05_qualitativeresearch/README.md)
