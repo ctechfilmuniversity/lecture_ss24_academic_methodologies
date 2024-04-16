@@ -1,3 +1,10 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
+
 ## Brainstorming
 
 - **Copyright with AI**

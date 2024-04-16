@@ -1,3 +1,10 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
+
 # Research Paper 
 ## Task 01.02 - Topic Selection
 

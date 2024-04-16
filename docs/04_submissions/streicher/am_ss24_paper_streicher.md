@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
 # Research Document - Adam Streicher
 
 ### Topic 1: Color Pipelines in ICVFX Virtual Production
