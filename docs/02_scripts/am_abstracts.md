@@ -10,6 +10,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 * [Academic Methodologies](#academic-methodologies)
     * [Abstracts](#abstracts)
+        * [SS23](#ss23)
+            * [Visualizing Aurora: Exploring the Theoretical Blueprint and Creative Potential of the Aurora Visual Synthesizer](#visualizing-aurora-exploring-the-theoretical-blueprint-and-creative-potential-of-the-aurora-visual-synthesizer)
+            * [Apart, but Connected: Digital Performance as a Space of Collective Resonance](#apart-but-connected-digital-performance-as-a-space-of-collective-resonance)
+            * [Imaginary Horizons: AI-driven content generation and strategy development on Instagram through ChatGPT and MidJourney](#imaginary-horizons-ai-driven-content-generation-and-strategy-development-on-instagram-through-chatgpt-and-midjourney)
+            * [The future of Tarot: Fortune predication and spirituality in the Digital Age](#the-future-of-tarot-fortune-predication-and-spirituality-in-the-digital-age)
+            * [Usability inspection of a transit application through the lens of Bret Victor’s user interface theory](#usability-inspection-of-a-transit-application-through-the-lens-of-bret-victors-user-interface-theory)
+            * [Automated video editing: A five-point ratio scale for comparing levels of automation in video editing tools](#automated-video-editing-a-five-point-ratio-scale-for-comparing-levels-of-automation-in-video-editing-tools)
         * [SS22](#ss22)
             * [Mad Designer Arena: On the lookout for an optimal projection mapping toolkit](#mad-designer-arena-on-the-lookout-for-an-optimal-projection-mapping-toolkit)
             * [Gamification in Warehouses: Are the ethics mentioned?](#gamification-in-warehouses-are-the-ethics-mentioned)
@@ -44,6 +51,53 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
             * [Shader boom in computational art: Creative applications, advantages, and shortcomings](#shader-boom-in-computational-art-creative-applications-advantages-and-shortcomings)
 
 ## Abstracts
+
+### SS23
+
+#### Visualizing Aurora: Exploring the Theoretical Blueprint and Creative Potential of the Aurora Visual Synthesizer
+
+##### Elena Vasilkova 
+
+This paper examines the theoretical blueprint of Aurora, a software visual synthesizer built using VVVV Gamma with substantial integration of Fuse, an open-source GPU-powered library within VVVV Gamma. With a strong GPU focus, Aurora utilizes an array of GPU/GPGPU techniques like compute shaders, particle systems, and raymarching algorithms among others. Synthesizer Aurora takes as an approach transposing sound synthesis principles into the realm of visual expression, providing a platform to creatively explore the fusion of sound-related concepts into visually artistic outputs. Besides that it uses generative and procedural techniques to create interesting and original visual compositions. This study aims to shed light on Aurora’s architecture, capabilities, and possible shortcommings. The overarching purpose of the paper is to dissect the prototyping process of Aurora and assess its effectiveness as a creative instrument.
+
+
+#### Apart, but Connected: Digital Performance as a Space of Collective Resonance
+
+##### Andreea-Cristina Mircea 
+
+The intersection of analogue and digital mediums is reshaping artistic expression. This evolution was particularly evident during the COVID-19 pandemic, prompting artists to leverage advanced technologies to communicate their art and engage with audiences. In 2020, Francesca Fini presented "s/confinamento", a digital performance that utilized outdoor webcam movements to produce dynamic audiovisual content, fostering a bridge between audiences and the external environment. We conducted a comprehensive analysis of Fini’s work, examining its innovative aspects and broader implications. After introducing 11 participants to the performance, we conducted follow-up interviews two years later to gauge their perceptions. Our findings revealed that the digital nature of the performance did not hinder, but rather enhanced, participants’ emotional responses and sense of connection with others.
+
+
+#### Imaginary Horizons: AI-driven content generation and strategy development on Instagram through ChatGPT and MidJourney
+
+##### Katja Schreiber
+
+As AI technologies evolve and the accessibility to the general public grows, the question arises: What impact will this devel- opment have on our working environment? New AI technologies such as ChatGPT and MidJourney could affect creative jobs like content creators on social media platforms such as Instagram. To investigate this, a three-week case study was conducted to see how ChatGPT and MidJourney could be used to create content and develop strategies for Instagram. The study shows that while ChatGPT and MidJourney provide support, they are not self-sufficient solutions. Particularly, in content creation they emerge as valuable aids that enhance idea generation and make content creation more effective. However, their role in strategy development is more limited, serving as initial input rather than comprehensive assistance. Therefore, it is feasible to utilize them in the capacity of a content creator’s tasks. Nevertheless, their application should be complemented by human oversight.
+
+#### The future of Tarot: Fortune predication and spirituality in the Digital Age
+
+##### Adi Aviram 
+
+Tarot, originating as Chinese playing cards [Nas17], has evolved into a Western divination game shaped by geography and technology. Today, technology is once again reshaping Tarot. This exploration examines Tarot’s evolution, its contemporary role in nonreligious spirituality, and the potential challenges, including spiritual bypass [Goo22] and misuse as therapy substi- tutes [Hol08]. It also highlights its strengths as a tool for delving into the subconscious, aligning with Jungian therapy [Fai21]. The study reviews toghter with a Tarot expert the results of Tarot’s digitalization and contemplating its future evolution while preserving its intuitive essence. Its encompassing the remote reading Zoom-mediated sessions, the potential of a reader-absent AI tools, and the nonsense of a YouTube Tarot videos, which lack of the self reflection meaning of tarot.
+
+
+
+#### Usability inspection of a transit application through the lens of Bret Victor’s user interface theory
+
+##### Codrin Podoleanu 
+
+City dwellers rely on the quality of transit app user interfaces for seamless travel planning. Bret Victor’s innovative UI theory serves as a benchmark for this evaluation of Berlin’s official transit app, BVG. Victor’s proposed principles – such as min- imising unnecessary user interaction, displaying extensive contextual information and deliberate application of graphic design practices – are extracted into concrete criteria. The inspection based on these criteria uncovers numerous shortcomings and unfulfilled potential in BVG’s UI. The identified deficiencies provide valuable insights for the future development of transit apps, aiming to provide passengers with more helpful and intuitive interfaces.
+
+
+#### Automated video editing: A five-point ratio scale for comparing levels of automation in video editing tools
+
+##### Marco Braune
+
+More and more software tools become available for video editors that expand the functionalities of video editing programs by automating processes. For a lot of editors, it is important to know how much work a tool still leaves for them, so they can bring in their own ideas. We propose a five-point ratio scale to compare the dependence of automation tools on the human editor. Each point stands for the number of steps a tool completes independently. This scale is based on a minimal workflow for editing a multi-camera video: watching the footage, removing unwanted parts, switching between cameras, refining transitions and reframing the shot. We compare the tools AutoPod, Timebolt and Adobe’s Text-Based Editing. While AutoPod is almost an independent tool by scoring four points, Timebolt is more of a supportive tool with two points. To be able to also analyse the Text-Based Editing, which uses a different workflow than the one proposed above, we extend our method.
+
+
+
+
 
 ### SS22
 
