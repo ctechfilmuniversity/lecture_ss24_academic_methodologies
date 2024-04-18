@@ -33,3 +33,24 @@ Another idea that pops into my mind in regard to this topic, is _how could real 
 
 Write a paper, based on my first-term project.
 
+## Task 02 - The Storyline of the Paper - Research Questions
+
+### Topic 1 - Animation and Immersive Storytelling/ The Design of Characters and Environments in VR Animation
+
+- What are some common challenges when creating characters and environments for VR? What strategies are employed to address these challenges?
+- How does the design process for creating characters and environments in VR differ, compared to traditional mediums such as film or video games?
+- What are the current trends in character and environment design for VR, and how do these trends impact the overall user experience?
+
+### Topic 2 - Storytelling (non-photorealistic animation) and Projection Mapping
+
+- How could spacial specificity be utilized in projection mapping for immersive animation?
+- Can we further push the limits of animation with utilizing projection mapping?
+- How could we enhance the engagement in non-photorealistic animation through projection mapping and real space utilization?
+
+### Topic 3 - Web storytelling (scrollytelling)
+
+- Chances and challenges of using the web (JavaScript, CSS) as a tool for creative visual storytelling.
+- Possibilities and limitations of the the web as a tool for creative visual storytelling.
+- What are the possibilities of scrollytelling as a narrative tool for interactive digital children stories?
+- Exploring the potential of scrollytelling in children's storytelling.
+- Navigating Narratives: What is the impact of scrollytelling on children's interactive story experiences?
