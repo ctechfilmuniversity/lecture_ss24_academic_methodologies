@@ -50,7 +50,34 @@ Write a paper, based on my first-term project.
 ### Topic 3 - Web storytelling (scrollytelling)
 
 - Chances and challenges of using the web (JavaScript, CSS) as a tool for creative visual storytelling.
-- Possibilities and limitations of the the web as a tool for creative visual storytelling.
+- Possibilities and limitations of the web as a tool for creative visual storytelling.
 - What are the possibilities of scrollytelling as a narrative tool for interactive digital children stories?
 - Exploring the potential of scrollytelling in children's storytelling.
 - Navigating Narratives: What is the impact of scrollytelling on children's interactive story experiences?
+
+## Task 03 - Research Question
+
+I decided to pick my third topic, since it is the one connected to my 1st term project. Therefore, I have a practical part - the scrollytelling, which could be used for experiments, doing a case-study, etc.
+
+The question would be along the lines of:
+
+> Chances and challenges (or advantages and challenges?) of using _conventional web technologies_ for children's interactive storytelling?
+
+I was thinking that I could use my project and do a real study with children (students) where they have to use it and then answer some questions, regarding their experience (of course, if all of this is feasible).
+
+I am still not sure about a specific context, for example there are some papers, investigating the benefits of web-based stories to promote second language reading for children ([this paper](https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2202706)).
+
+Here is a list with some questions that my paper could tackle. This is just a quick and dirty brainstorming, so some or many of the ideas below could probably sound weird or not suitable at all.
+
+- What are the benefits, chances, pros, etc. of using conventional web technologies for interactive storytelling based on a specific case study - the scrollytelling I have implemented?
+- Why is it beneficial to use the web as a storytelling medium?
+- Why using conventional web technologies could be beneficial/ advantageous for web storytelling?
+- Web-based stories are accessible, easy to implement, while still offering wide range of techniques
+- Web-based stories offer big creative freedom
+- Being accessible - both using and creating web-based stories - could make them a great tool for children to learn different skills - e.g. digital literacy, make their first steps into the world of programming in an interactive and fun way, while being creative and using real tools (web technologies)
+- Using only conventional web technologies ensures that the application is lightweight, has smooth transitions, etc.
+- What about accessibility? Research if this can be ensured?
+- Conventional web technologies can ensure as much as possible browser compatibility?
+- Web-based stories are not based on a specific operating system (this is advantageous)
+- Scrolling to navigate the story makes sure that the reader is engaged?
+- How multimodal and animated elements in digital narratives engage children and encourage affective and aesthetic reader response, [this paper](https://www.emerald.com/insight/content/doi/10.1108/ETPC-12-2014-0005/full/html) 
