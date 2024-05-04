@@ -1,10 +1,3 @@
----
-layout: default
-title: Session
-nav_exclude: true
----
-
-
 # Research Paper 
 ## Task 01.02 - Topic Selection
 
@@ -61,3 +54,14 @@ What questions could you ask about that topic?
 * ...
 How could you solve those questions? 
 * Research! Conceptualize! Holly Herndon and Mat Dryhurst live in Berlin, maybe if I'm lucky enough I could interview them.
+
+## Research Question 
+
+I've strayed from my original ideas after reading about "The Internet of Animals" and have decided to explore the possibilities artists might have in using the plethora of animal and other nonhuman data that is becoming accessible to the public. I have three variations of more or less the same question and am not sure which one to pursue further. Appreciate the feedback! 
+
+- “Data Art: Crafting Nonhuman Dramaturgies using the *Movebank* Database” 
+
+- “How can Artists use the Movebank Database to Craft Artistic Experiences of the Nonhuman World?”
+
+- “Applications of the Movebank Database in Creating Artistic Experiences Centred Around Nonhuman Beings”  
+
