@@ -26,3 +26,7 @@ nav_exclude: true
 - How can we generate real-time data from plants for audiovisual use?
 
 - Evaluating methods of plant interaction by material cost and skill-level
+
+## Task 03 - Research question
+
+Evaluation of types of plant interaction for performative settings by material cost and neccessary skill.
