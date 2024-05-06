@@ -28,7 +28,9 @@ ____
 
 ### Research Question:
 
-What difficulties/discrepencies in "color representations" (Multispectral Lighting Reproduction?) are connected to rendering HDR content from Unreal Engine to an LED volume?
+What discrepencies in color processing are connected to live rendering HDR content from Unreal Engine to an LED volume?
+
+
 
 ____
 
@@ -46,5 +48,16 @@ ____
 Siggraph 2022 [Youtube](https://www.youtube.com/watch?v=9gA_4x9lW48)
 
 Paper 2016 [ACM](https://dl.acm.org/doi/10.1145/2897824.2925934) & [PDF](https://dl.acm.org/doi/pdf/10.1145/2897824.2925934)
+
+
+Enhancements to Media Transport in ICVFX using SMPTE 2110
+
+https://ieeexplore.ieee.org/abstract/document/10372549
+
+ 
+
+Image Based Lighting - Current Capabilities and Limitations
+
+https://ieeexplore.ieee.org/abstract/document/10012616
 
 
