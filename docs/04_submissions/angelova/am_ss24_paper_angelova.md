@@ -96,7 +96,7 @@ Or:
 
 > Creating (empathetic) characters/environments for VR animation.
 
-The idea is to write a survey paper, reporting current trends, state-of-the-art, etc. And I have gathered a short list of papers:
+One idea is to do a review, based on the VR animations of [Baobab Studios](https://www.baobabstudios.com/films), if this is possible. Another idea is to write a survey paper, reporting current trends, state-of-the-art, etc. And I have gathered a short list of papers:
 
 - [Non-Photorealistic Animation for Immersive Storytelling](https://research.google/pubs/non-photorealistic-animation-for-immersive-storytelling/), this is my AR paper
 - [Unite Austin 2017 - Creating a VR Storybook Look for Rainbow Crow](https://www.youtube.com/watch?v=uELM5qQvBkY)
