@@ -4,13 +4,26 @@ title: Session
 nav_exclude: true
 ---
 
-# Research Document - Adam Streicher
+# Research Document - Joel Schäfer
 
-### Topic: Connecting Audio with Video real-time generation, towards universal concepts of parameter mappings in audiovisual live instruments
-
-Description / Background:
+### Topic I: AI in Modern Warfare / Military Operations - "Gospel / Habsora" - Casestudy Israel-Gaza 2023/24 - Implications for a Redefinition of War(on Terror) & new Possibilities in Urban War scenarios through an unprecedented efficiency in automated targeting processes.
 
 
+
+
+
+
+Sources: 
+
+https://www.spytalk.co/p/israels-gospel-targeting-system-proves
+
+https://www.npr.org/2023/12/14/1218643254/israel-is-using-an-ai-system-to-find-targets-in-gaza-experts-say-its-just-the-st
+
+https://go.gale.com/ps/i.do?id=GALE%7CA779055252&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=87554917&p=AONE&sw=w&userGroupName=anon%7Ec8a2f230&aty=open-web-entry
+
+
+
+### Topic II: Connecting Audio with Video real-time generation, towards universal concepts of parameter mappings in audiovisual live instruments
 
 
 
@@ -86,3 +99,5 @@ Q2 would focus more on the whole installation, tring to understand it as some ki
 
 
 ---
+
+
