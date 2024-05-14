@@ -1,3 +1,10 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
+
 # Research Paper 
 ## Task 01.02 - Topic Selection
 
@@ -64,4 +71,18 @@ I've strayed from my original ideas after reading about "The Internet of Animals
 - “How can Artists use the Movebank Database to Craft Artistic Experiences of the Nonhuman World?”
 
 - “Applications of the Movebank Database in Creating Artistic Experiences Centred Around Nonhuman Beings”  
+
+
+---
+
+### Feedback Lena
+
+* First of all, I think this is a great direction, very interesting.
+* Are you planning to research other people's dramaturgies or how others craft artistic experiences with Movebank and summarize those or are you planning to come up with your own ideas - or both?
+* Option 1 is my favorite as the term "dramaturgy" is too me clearer than "artistic experience". I am not sure though what "Nonhuman Dramaturgies" should be? The dramaturgies are still from humans and for humans but are based on nonhuman data? Or are you looking for existing dramaturgies (or something similar) within the nonhuman data? If the former maybe make it a bit clearer along the lines of “Data Art: Crafting Theatrical Dramaturgies with Nonhuman data from the *Movebank* Database” (in case you want it in a theatrical context of course). Do you want to also include technical considerations and descriptions? 
+* Why not simply call the "nonhuman" "animals"? The data is all animals, right? But I understand that "animals" would read less poetic - but clearer ;)
+* I also like the focus in option 3 that the result should highlight the "nonhuman beings"
+* I think you are in good place with these questions. Now you need to decide on what it is you actually want to investigate (other people's work, come up with your own ideas, both, one idea e.g. as case study vs. many ideas and options as an overview (would still be called case study though), come up with a taxonomy / hierarchy, technical insights, insights on the perception of the audience, focus on the communication of the data etc. ). Once you made this decision, you should shape the question accordingly.
+
+---
 

@@ -30,3 +30,13 @@ nav_exclude: true
 ## Task 03 - Research question
 
 Evaluation of types of plant interaction for performative settings by material cost and neccessary skill.
+
+
+---
+### Feedback Lena
+
+* I think you are in a good place with this question. It makes clear what you are going to do. 
+* What do you mean with "performative settings"? You specifically want to focus on a "live", "theatrical" context, correct? Would your collaborative project be part this category? Intuitively I would say no, is that what you mean?
+* For "print", I would further adjust the specific wordings. "plant interaction" is a bit misleading as it sounds to me as if the interactions come from the plants themselves. If you want to be more precise, I suggest something along the lines of (again this is not changing the topic, it is just about the wording): "Evaluation of material cost and required skills for implementing different types of human-plant interactions as part of artistic live performances." Of course only, if these terms fit to what you want to do. As I said, you are good to go to work on the question and might want to make final adjustments during the process of writing the paper.
+
+---

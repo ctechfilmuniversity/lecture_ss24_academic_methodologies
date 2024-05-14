@@ -96,6 +96,8 @@ By now computer science research is by now truly multi-disciplinary, with e.g.
 
 7 types of HCI research contributions:
 
+--
+
 * Empirical contributions  
 * Artifact contributions
 * Methodological contributions 

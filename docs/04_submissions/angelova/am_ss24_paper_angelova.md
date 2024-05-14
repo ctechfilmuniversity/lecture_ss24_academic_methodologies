@@ -67,6 +67,26 @@ The question would be along the lines of:
 
 > __IMPORTANT: I have been thinking and I have some concerns regarding how scientific this topic could be and how I could do meaningful research for it, therefore I would be happy for some feedback. If it is not suitable, I have another topic suggestions below in [03.02](#0302), which are related to [Topic 1](#topic-1---animation-and-immersive-storytelling-the-design-of-characters-and-environments-in-vr-animation).__
 
+
+---
+
+#### Feedback Lena
+
+* First of all I think this is a great direction! The questions is indeed, how to bring your first term project into an academic context. However, the AM paper doesn't need to present novel scientific insights but it only needs to tell a cohesive story inline with academic standards. This topic is quite applied, but there is also the need for and there are plenty of applied research communities. You could investigate, as you suggested, your current results. But you could also reflect on what could add to / improve your currents results and investigate that further. This could be technical or artistic. This decision is entirely up to you and also depends on whether or not you do in fact want to continue with the project.
+* To me it is not clear how *conventional* web technologies are defined. Is there a definition or is it common knowledge what constitutes as *conventional*? 
+* The question is still too vague as it doesn't explain on which aspect of interactive storytelling and/or web technologies you actually focus on: its implementation, creative / artistic options or how children experience it? Depending on the focus you set, I would represent that focus in the main question as well. Also, it is not completely clear what you mean with chances and challenges of using web technologies - technically or creatively or both? E.g. (roughly, only to make you understand what I mean):
+    * Focusing on the creative work: Creative options for the development of an interactive story with (or based on?) web technologies.
+    * Focusing on the experience children have: Advantages and disadvantages for children's experiences of a story with web-based interactive storytelling? (here you might need to clarify what is meant with "experience", e.g. maybe "enjoyment" is better?)
+    * Focusing on technical aspects: Implementation requirements (or framework, guideline, challenges?) for using web technologies for an interactive story for children.
+* You could of course also look at different aspects at once but also that should be made clearer, e.g.:
+    * Chances and challenges for the technical and creative development of interactive storytelling for children with web technologies.
+* You could als present your 1st term project as case study and focus on your specific technical choices and which artistic/creative expressions they allow for; meaning analyze and present in the paper what you have learned during your project: Which implementation principles did you follow? What kind of graphics are possible? What kind of navigation? What kind of interactions? How about audio? Cross-browser and -plattform? A paper like that would be very helpful to others (students), I think.
+    * Then a question could look like: *Search for Happiness* - A case study of interaction, storytelling and a web-based implementation of a story for children (or focus only of one of these aspects).
+
+
+
+---
+
 I was thinking that I could use my project and do a real study with children (students) where they have to use it and then answer some questions, regarding their experience (of course, if all of this is feasible).
 
 I am still not sure about a specific context, for example there are some papers, investigating the benefits of web-based stories to promote second language reading for children ([this paper](https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2202706)).
@@ -85,6 +105,13 @@ Here is a list with some questions that my paper could tackle. This is just a qu
 - Web-based stories are not based on a specific operating system (this is advantageous)
 - Scrolling to navigate the story makes sure that the reader is engaged?
 - How multimodal and animated elements in digital narratives engage children and encourage affective and aesthetic reader response, [this paper](https://www.emerald.com/insight/content/doi/10.1108/ETPC-12-2014-0005/full/html) 
+
+#### Feedback Lena
+
+
+
+
+
 
 ### 03.02
 

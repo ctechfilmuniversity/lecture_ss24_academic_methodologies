@@ -31,6 +31,17 @@ ____
 What discrepencies in color processing are connected to live rendering HDR content from Unreal Engine to an LED volume?
 
 
+---
+#### Feedback Lena
+
+* I think you are in a good place with this question and it is an interesting topic. It is fairly clear what you are going to do. You could still be even more precise with the wordings. Regarding which goal are there "discrepancies" and what do you mean with "color processing"?
+* Regarding color, do you consider different color space, color depth, or the perceived colors? Regarding color processing, I guess it would include color grading, gamma correction and LED wall calibration?
+* Maybe re-phrase as follows (if these terms still fit to what you want to do - mapping might be a misleading term here, but I can't think of anything better just now) "Which hard- and software components create differences in color space, [... (depending what you look at)] when mapping HDR content from Unreal Engine to a LED volume?"
+* Do you also want to write about how to mitigate these issues?
+
+---
+
+
 
 ____
 
