@@ -195,12 +195,12 @@ There are the following causation scenarios possible:
     * For example, the village environment is more friendly to storks and families that desire children.
     * In this case the number of storks has no impact on the number of babies or vice versa.
 
---
-Explanation 3 is also called a *[tertium quid](https://en.wikipedia.org/wiki/Tertium_quid)*, meaning that there is a an unidentified third element to a relationship of two knowns.
-
 
 ???
 .task[COMMENT:]  
+Explanation 3 is also called a *[tertium quid](https://en.wikipedia.org/wiki/Tertium_quid)*, meaning that there is a an unidentified third element to a relationship of two knowns.
+
+
 
 * With stating interpretations of such results, we have to be equally careful:
     * If I want more babies should I move to an area with many storks?
@@ -962,7 +962,10 @@ Two independent variables can be investigated in one experiment:
 * type of keyboards, and
 * type of tasks.
 
---
+---
+.header[Experimental Research | Basic Structure]
+
+## More Than One Independent Variable
 
 The variable *type of keyboards* has three levels:
 
@@ -970,15 +973,17 @@ The variable *type of keyboards* has three levels:
 * DVORAK, and
 * Alphabetic.
 
+
+--
+
 The variable *type of tasks* has two levels:
 
 * transcription and
 * composition.
 
----
-.header[Experimental Research | Basic Structure]
+--
 
-## More Than One Independent Variable
+
 
 `Number of conditions = 3 * 2 = 6`
 
@@ -987,7 +992,7 @@ The variable *type of tasks* has two levels:
 
 * Therefore, the total number of conditions in this experiment is calculated according to the following equation: 
 
---
+
 
 |               | QWERT | DVORAK | Alphabetic |
 |---------------|-------|--------|------------|
