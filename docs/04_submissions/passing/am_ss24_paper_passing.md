@@ -40,3 +40,12 @@ Evaluation of types of plant interaction for performative settings by material c
 * For "print", I would further adjust the specific wordings. "plant interaction" is a bit misleading as it sounds to me as if the interactions come from the plants themselves. If you want to be more precise, I suggest something along the lines of (again this is not changing the topic, it is just about the wording): "Evaluation of material cost and required skills for implementing different types of human-plant interactions as part of artistic live performances." Of course only, if these terms fit to what you want to do. As I said, you are good to go to work on the question and might want to make final adjustments during the process of writing the paper.
 
 ---
+
+## Task 03 - Description of a possible methodology
+
+- Research all sorts of projects, performances, anything that make use of plant interaction. I found this paper to be a possibly fruitful starting point https://dl.acm.org/doi/pdf/10.1145/3532106.3533555
+- Filter by approaches that can be used in a performative setting, aka interactions that can either be read from a continuous stream of real time data or can be read as immediate interaction data (I think these are the two main categories, but maybe this will change)
+- Analyze/ categorize the results
+- Develop taxonomies for the resulting options, namely money and skill, keeping a performative arts context in mind
+- Summarize the findings?
+
