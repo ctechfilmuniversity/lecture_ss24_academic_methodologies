@@ -16,10 +16,10 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 02](02_hci_researchquestions/README.md)
 * [Session 03](03_experiments/README.md)
 * [Session 04](04_statistics/README.md)
-
+* [Session 05](05_qualitativeresearch/README.md)
 
 <!-- 
-* [Session 05](05_qualitativeresearch/README.md)
+
 * [Session 06](06_literature/README.md)
 * [Session 07](07_writing/README.md)
 * [Session 08](08_publishing/README.md)
