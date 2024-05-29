@@ -13,6 +13,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Session 06 - Working With Literature
 
+## Literature
+
 * Read [Chapter 08 - Working With Literature](../../02_scripts/am_ss23_08_literature_script.md)
 * Read [How to Read a CS Research Paper?](fong_2004_htr.pdf)
 * Read [How to Read a Paper](keshav_2016_htr.pdf)
