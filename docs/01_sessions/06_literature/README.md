@@ -16,8 +16,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ## Literature
 
 * Read [Chapter 08 - Working With Literature](../../02_scripts/am_ss23_08_literature_script.md)
-* Read [How to Read a CS Research Paper?](fong_2004_htr.pdf)
-* Read [How to Read a Paper](keshav_2016_htr.pdf)
+* Read [How to Read a CS Research Paper?](./fong_2004_htr.pdf)
+* Read [How to Read a Paper](./keshav_2016_htr.pdf)
 
 The readings are all quite short but rather important. Make sure to read them carefully.
 

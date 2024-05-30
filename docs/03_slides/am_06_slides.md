@@ -410,13 +410,13 @@ possible answers.
 
 ## Lady Tasting Tea
 
-| Correct Guesses | Combinations                  | Cases              | Probability |
-| --------------- | ----------------------------- | ------------------ | ----------- |
-| 0               | oooo                          | $\binom {4}{0}=4$  | ~ 1.4%      |
-| 1               | ooox,ooxo,oxoo,xooo           | $\binom {4}{1}=16$ | ~ 22.9%     |
-| 2               | ooxx,oxxo,oxox,xxoo,xoox,xoxo | $\binom {4}{2}=16$ | ~ 51.4%     |
-| 3               | xxxo,xxox,xoxx,oxxx           | $\binom {4}{1}=16$ | ~ 22.9%     |
-| 4               | xxxx                          | $\binom {4}{0}=4$  | ~ 1.4%      |
+| Correct Guesses | Combinations                  | Probability |
+| --------------- | ----------------------------- | ----------- |
+| 0               | oooo                          | ~ 1.4%      |
+| 1               | ooox,ooxo,oxoo,xooo           | ~ 22.9%     |
+| 2               | ooxx,oxxo,oxox,xxoo,xoox,xoxo | ~ 51.4%     |
+| 3               | xxxo,xxox,xoxx,oxxx           | ~ 22.9%     |
+| 4               | xxxx                          | ~ 1.4%      |
 
 ???
 .task[COMMENT:]  
@@ -424,6 +424,14 @@ possible answers.
 * The frequencies of the possible numbers of successes, given in the final column of this table, are derived as follows. For 0 successes, there is clearly only one set of four choices (namely, choosing all four incorrect cups) giving this result. For one success and three failures, there are four correct cups of which one is selected, which by the combination formula can occur in {\displaystyle {\binom {4}{1))=4} different ways (as shown in column 2, with x denoting a correct cup that is chosen and o denoting a correct cup that is not chosen); and independently of that, there are four incorrect cups of which three are selected, which can occur in {\displaystyle {\binom {4}{3))=4} ways (as shown in the second column, this time with x interpreted as an incorrect cup which is not chosen, and o indicating an incorrect cup which is chosen). Thus a selection of any one correct cup and any three incorrect cups can occur in any of 4×4 = 16 ways. The frequencies of the other possible numbers of successes are calculated correspondingly. Thus the number of successes is distributed according to the hypergeometric distribution. The distribution of combinations for making k selections out of the 2k available selections corresponds to the kth row of Pascal's triangle, such that each integer in the row is squared. In this case, k=4 because 4 teacups are selected from the 8 available teacups.
 
 The critical region for rejection of the null of no ability to distinguish was the single case of 4 successes of 4 possible, based on the conventional probability criterion < 5%. This is the critical region because under the null of no ability to distinguish, 4 successes has 1 chance out of 70 (≈ 1.4% < 5%) of occurring, whereas at least 3 of 4 successes has a probability of (16+1)/70 (≈ 24.3% > 5%). 
+
+| Correct Guesses | Combinations                  | Cases             | Probability |
+| --------------- | ----------------------------- | ----------------- | ----------- |
+| 0               | oooo                          | $\binom {4}{0}=1$ | ~ 1.4%      |
+| 1               | ooox,ooxo,oxoo,xooo           | $\binom {4}{1}=4$ | ~ 22.9%     |
+| 2               | ooxx,oxxo,oxox,xxoo,xoox,xoxo | $\binom {4}{2}=6$ | ~ 51.4%     |
+| 3               | xxxo,xxox,xoxx,oxxx           | $\binom {4}{3}=4$ | ~ 22.9%     |
+| 4               | xxxx                          | $\binom {4}{4}=1$ | ~ 1.4%      |
 
 --
 <br >
