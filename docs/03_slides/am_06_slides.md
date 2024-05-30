@@ -873,11 +873,12 @@ Single questions can be categorized in three types: as
 
 * This open-ended question provides no information about the possible causes; instead it requires the respondent to think deeply about what the causes might be (Dillman, 2000, as cited in [1]). The respondent may be too busy to come up with a complete response or may simply say something like "I didn't like the software". It is a very broad question. More specific questions might be:  
 
+--
+* *Did software X allow you to complete the tasks that you wanted to complete?*
 
 
 --
-
-* *How did you feel about the usability (ease of use) of software X? Did software X  allow you to complete the tasks that you wanted to complete?*
+* *How did you feel about the usability of software X?* 
 
 ???
 .task[COMMENT:]  
@@ -885,7 +886,6 @@ Single questions can be categorized in three types: as
 * These questions address more specific topics: ease of use and task completion. The respondents cannot simply answer "I didn't like it,” although they could just answer “yes” or “no” to the second question. Perhaps another way to reword that second question might be as:  
 
 --
-
 * *What barriers did you face in attempting to use software X to complete your tasks?*
 
 
@@ -1106,7 +1106,7 @@ How you chose your case must be thoroughly described. You could also use a speci
 
 --
 
-* Useful for understanding a individual perspectives
+* Useful for understanding individual perspectives
 * Crucial: *who* to involve and *how* to structure the sessions
 * Structured, semi-structured and unstructured
 
