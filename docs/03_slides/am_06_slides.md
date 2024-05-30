@@ -637,7 +637,7 @@ The one way Analysis of Variance (ANOVA) compares more than *two* groups, based 
 ---
 .header[Inferential Statistics]
 
-## Parametric / Non-Parametric Statistics
+## Non-Parametric Statistics
 
 Non-parametric methods make fewer assumptions about the data. They are also called *assumption-free* tests.
 
