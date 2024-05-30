@@ -49,3 +49,8 @@ Evaluation of types of plant interaction for performative settings by material c
 - Develop taxonomies for the resulting options, namely money and skill, keeping a performative arts context in mind
 - Summarize the findings?
 
+## Task 04 - Description of your potential result(s) 
+
+- A list of performances/ project that can be used for reference and inspiration
+- Taxonomies that help with decision making: this is my budget and these are the people/skills available, what direction could I go in/ what is realistic to achieve?
+- The taxonomies should be comprehensible and and somewhat visual and should work without the context of the paper itself
