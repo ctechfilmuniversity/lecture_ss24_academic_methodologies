@@ -499,7 +499,7 @@ Which α to chose also depends on the discipline.
 
 --
 
-This shows that what we accept as *proven effect* also simply depends on somewhat arbitrary standards a research community decided on.
+This shows that what we accept as *proven effect* also simply depends on standards a research community decided on.
 
 ---
 .header[Inferential Statistics]
