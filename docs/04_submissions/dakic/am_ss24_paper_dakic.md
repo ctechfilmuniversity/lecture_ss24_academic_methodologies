@@ -1,3 +1,8 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
 
 # Task 01 - Topic Brainstorming & Topic Selection
 
