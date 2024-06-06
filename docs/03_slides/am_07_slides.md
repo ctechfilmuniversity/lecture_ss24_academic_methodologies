@@ -27,7 +27,7 @@ layout: false
 
 --
 * Academic Writing
-* Anatomy of a paper
+* Anatomy of a Paper
 
 
 ---
@@ -35,22 +35,18 @@ template:inverse
 
 # Working with Literature
 
----
-## Working with Literature
+???
+.task[COMMENT:]  
 
---
+
 * Searching
     * Engines
     * Digital Libraries
---
 * Strategies
     * Searching
     * Collecting
     * Reading
---
 * Management Tools
---
-
 * Literature Surveys
 
 ---
@@ -124,7 +120,7 @@ HCI / Computer Science (all content is of fairly high quality):
     * Journals, conferences that fit topic-wise
 
 --
-> It is really not an accomplishment to find literature. Reading the right one really is!
+> It is not an accomplishment to find literature. Reading the right one really is!
 
 ---
 .header[Literature]
@@ -561,6 +557,10 @@ Crucial advantages:
 
 ## BibTeX
 
+--
+* Reference management
+
+--
 * Comes with LaTeX
 
 ???
@@ -569,8 +569,6 @@ Crucial advantages:
 * With LaTeX comes BibTeX. BibTeX is a reference management software for formatting lists of references. 
 * A BibTeX database of references is stored as a `.bib` file, which you write as plain text file. References and citations are then automatically created and formatted based on the `.bib` file. Most literature management tools import/export BibTeX entries.
 
---
-* Reference management
 
 --
 * Formats lists of references

@@ -64,12 +64,10 @@ vs.
 ---
 template:inverse
 
-## How To Start Writing
+# How To Start Writing
 
 ---
 ## How To Start Writing
-
---
 
 ???
 .task[COMMENT:]  
@@ -1077,7 +1075,7 @@ template:inverse
 ---
 # Next
 
-Next we will look into layout, citations and also into overall language and writing style.
+Next we will look into overall language and writing style.
 
 .center[<img src="../02_scripts/img/09/writing_07.gif" alt="writing_07" style="width:100%;">]
 [[phdcomics]](http://www.phdcomics.com/comics/archive.php?comicid=1576)
