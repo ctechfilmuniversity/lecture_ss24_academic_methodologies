@@ -36,7 +36,7 @@ Reflect on your past experiences with writing, e.g. when writing your Bachelor t
 
 Create a working title and an overview of the different sections (and sub-sections) of your paper. Name your sections appropriately. 
 
-Decide on a LaTeX environment and set up your paper based on the given [ACS FUB 2024](../00_paper/acsfubPublStyle_2024.zip) template. Add your title and sections in the LaTeX environment and generate a proper pdf.
+Decide on a LaTeX environment and set up your paper based on the given [ACS FUB 2024](../00_paper/acsfubPublStyle_2024.zip) template. Add your title, sections and the references you collected last week in the LaTeX environment and generate a proper pdf.
 
 *Submission*: -
 
