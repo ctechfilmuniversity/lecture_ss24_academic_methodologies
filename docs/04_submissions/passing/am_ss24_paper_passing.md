@@ -54,3 +54,13 @@ Evaluation of types of plant interaction for performative settings by material c
 - A list of performances/ project that can be used for reference and inspiration
 - Taxonomies that help with decision making: this is my budget and these are the people/skills available, what direction could I go in/ what is realistic to achieve?
 - The taxonomies should be comprehensible and and somewhat visual and should work without the context of the paper itself
+
+## Task 05 - Gathering literature
+
+- [Paterns and Opportunities for the Design of Human-Plant
+Interaction](https://dl.acm.org/doi/pdf/10.1145/3532106.3533555) paper with wide range of plant interaction in various places and nice categorization of them
+- [Performing with Plants in the Ob-scene Anthropocene](https://www.researchgate.net/publication/341789232_Performing_with_Plants_in_the_Ob-scene_Anthropocene) article about theater performance with plants
+- [Playing with Plants](https://www.jstor.org/stable/24580497) journal article about interspecies (in this case human-plants) theatrical performances
+- [Akousmaflore](https://www.scenocosme.com/akousmaflore_en.htm) documentation of a interactive, musical plant installation
+- [BOTANICUS INTERACTICUS: Interactive Plants Technology](http://www.ivanpoupyrev.com/wp-content/uploads/2015/11/botanicus-interacticus-etech.pdf) interesting paper focusing on one interactive plant installation unsing the TOUCHE research paper
+- [Sonnengarten: urban light installation with human-plant interaction](https://www.researchgate.net/publication/308036116_Sonnengarten_urban_light_installation_with_human-plant_interaction) conference paper and documentation of interactive plant installation, has a good research part
