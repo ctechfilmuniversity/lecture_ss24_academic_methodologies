@@ -63,7 +63,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 *The links in the following guidelines will be added at a later time.*
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system]()(*link to be added*). The submission is open now.
+* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/my/conference?conf=acsfub2024). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
 * Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/00_paper/acsfubPublStyle_2024.zip).
     * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2024.cyens.org.cy/) conference, with this [original submission template](../01_sessions/00_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
