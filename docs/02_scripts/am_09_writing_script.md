@@ -61,7 +61,7 @@ Let's assume that we are at a point where we have a clear understanding of our r
 ![writing_16](img/09/writing_16.png)  
 [[imgur]](https://imgur.com/gallery/ex4PAUZ)
 
-... and he is right! It is crucial to understand that the writing about, and the presentation of your research project is as important as the actual research tasks. Oftentimes the paper is the only part that your advisor, the reviewers, etc. get to know about your work. Your results can be as exceptional as they might be, if you fail to communicate them clearly, fail to put them in context and to discuss them, the whole project will fail academically.
+... and he is right! It is crucial to understand that the writing about, and the presentation of your research project is as important as the actual research tasks. Oftentimes the paper is the only part that your advisor, the reviewers, etc. get to know about your work. Your results can be as exceptional as they might be, if you fail to communicate them clearly, and fail to put them in context and to discuss them, the whole project will fail academically.
 
 But fear not. Writing is not an innate talent but can be learned, practiced and mastered by all.
 
@@ -79,7 +79,7 @@ But fear not. Writing is not an innate talent but can be learned, practiced and 
 
 Overall there are many, many reasons to write. Obviously, our focus here is *academic* writing. Academic writing aims at contributing to a research community with novel and relevant insights. For making sure that your research community can understand your results and compare them, there are various standards of academic writing - as always depending on the discipline. These differences in academic writing are based on the overall distinction of the nature of the academic text. The text can be in itself the research such as in philosophy. The text can also function as reporting the research results such as when you have conducted a study, developed an algorithms, etc., as in the sciences.
 
-One of the overall main differences that I have noticed between academic writing in the humanities and the sciences is the complexity of the language. In the sciences we are always aiming for the simplest, cleanest and easiest to understand type of language. In the humanities you might need to convey only slight nuances of meaning with language to make your argument strong, which in turn can lead to quite complex language. Here, it is my impression that such complex language, which is indeed often enough needed, is also at times misused (both intentionally and unintentionally) in a way that makes simple scenarios appear overly complex and hard to understand. But this is only my impression - which comes from a background of scientific writing. However, we also follow in this chapter the goal of communicating a project as easy and as understandable as possible.
+One of the overall main differences that I have noticed between academic writing in the humanities and the sciences is the complexity of the language. In the sciences we are always aiming for the simplest, cleanest and easiest to understand type of language. In the humanities you might need to convey slight nuances of meaning with language to make your argument strong, which in turn can lead to quite complex language. Here, it is my impression that such complex language, which is indeed often enough needed, is also at times misused (both intentionally and unintentionally) and makes simple scenarios appear overly complex and hard to understand. But this is only my impression - which comes from a background of scientific writing. However, we also follow in this chapter the goal of communicating a project as easy and as understandable as possible.
 
 We discuss academic writing on the example of writing a computer science paper. Papers are pretty much a distilled version of a thesis. Most of what I present applies equally to a thesis. In the end of this chapter I also give some notes on theses specifically. Of course, the context of computer science is quite specific but I do think it represents any academic writing project, also within the humanities, well. The overall structure is pretty much the same across disciplines, however there might be important differences in the details. Know what audience you are writing for, in which context, and adjust your work accordingly.
 
@@ -102,9 +102,9 @@ However, most of these causes, except maybe the problem of expression, will vani
 
 As writing is all about getting into a *flow* of writing it is important to be in the right state of mind. Usually I will start with setting a time for how long I am going to write and with blocking all distractions such as emails for that time period. And with blocking, I mean literally blocking. For that I am using the [Focus app](https://heyfocus.com/?utm_source=focus_about) (there are countless similar tools), which prevents the opening of certain apps and websites for the defined time. This helps me to stick to the task and not to give up with the writing if it doesn't go as planned. Also, I personally like to start with having a quite detailed plan about what I am going to write. I define which part I am going to work on and what I hope to finish in that session. Then I will develop bullet points for each sections, which I try to make as detailed as possible. My goal is here *to separate the task of knowing what to write from the actual writing*! Bullet points are much easier to come up with and to structure than continuous text. 
 
-If I am completely stuck and even coming up with structured bullet points feels scary to me, I will start with a e.g. 20 min session to just write down what ever comes to my mind in regard to the tasks, be it text, bullet points, or jibberish. During that session, I try not to go back to anything that I have already written but let it be in which ever form and just continue to get something onto the page. Afterwards I go over everything I wrote and either distill bullet points from it or even already actual text. Of course this approach is quite time intensive. Also, it depends on your way of thinking and writing capabilities. I have met plenty of people that can produce beautiful, coherent text on the first go, starting with an empty page and not doing a detour over bullet points. I am not one of them. But the more I write, the more I am getting there.
+If I am completely stuck and even coming up with structured bullet points feels scary to me, I will start with a e.g. 20 min session to just write down what ever comes to my mind in regard to the tasks, be it text, bullet points, or jibberish. During that session, I try not to go back to anything that I have written but let it be in which ever form and just continue to get something onto the page. Afterwards I go over everything I wrote and either distill bullet points from it or even already actual text. Of course this approach is quite time intensive. Also, it depends on your way of thinking and writing capabilities. I have met plenty of people that can produce beautiful, coherent text on the first go, starting with an empty page and not doing a detour over bullet points. I am not one of them. But the more I write, the more I am getting there.
 
-The above is just my process and e.g. such an iterative approach might not fit you. I would like to encourage you to figure out your process! You do this ideally before you have to crunch out writings under a tight deadline.
+The above is just my process and e.g. such an iterative approach might not fit you. I encourage you to figure out your process! You do this ideally before you have to crunch out writings under a tight deadline.
 
 In regard to specifically writing a paper, I recommend the following steps:
 
@@ -143,9 +143,9 @@ Of course these storytelling aspects are completely ignored in many, many papers
 
 ## Paper Sections
 
-Any academic writing follows overall this structure (the reference section is in a weird place, we are coming back to that):
+Any academic writing follows overall this structure:
 
-![writing_17](img/09/writing_17.png)  
+![writing_17](img/09/writing_17a.png)  
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
 
 In the context of computer science almost all paper follow the same structure, with minor differences in the structure of subsections and in the specific section titles. The structure of a paper is as follows:
@@ -171,7 +171,7 @@ Furthermore, a paper has actually somewhat of a fractal structure (and we do lov
         * A subsection has an introduction, body, conclusion
             * A paragraph has an introduction, body, conclusion
 
-With this fractal structure you make sure that a reader understands your storyline and why that e.g. section is happening. It is a bit like creating a chain, each element must be tried into the previous and the following. To do this gracefully is quite challenging as you also don't want to repeat yourself. But this makes sure that the document flows naturally and is easy to read. As a rule of thumb you can build one paragraph for each thought. Connect paragraphs logically. 
+With this fractal structure you make sure that a reader understands your storyline and why that e.g. section is happening. It is a bit like creating a chain, each element must be tried into the previous and the following. To do this gracefully is quite challenging as you also don't want to repeat yourself. Make sure that the text flows naturally and is easy to read. As a rule of thumb you can build one paragraph for each thought. Connect paragraphs logically. 
 
 Similar to presentations, also add navigation marks to help the reader getting through the whole paper. Explain where ever necessary,
 
@@ -179,7 +179,7 @@ Similar to presentations, also add navigation marks to help the reader getting t
 * where are we now,
 * where are we going?
   
-Example: “In the last section we saw a formal definition of X. In this section we will see some examples of X, in preparation for section 3, which will introduce a special case of X, which we will focus on in the rest of the report.”
+Rough example: “In the last section we present a formal definition of X. In this section we give some examples of X, in preparation for section 3, which introduces a special case of X, which we then focus on.”
 
 Once again, every section, paragraph, sentence and word should serve a purpose. If not, throw it out!
 
@@ -196,7 +196,7 @@ Avoid
 * all but the most readily understood abbreviations
 * Common phrases like "novel", "performance evaluation”, “architecture", “Towards”… 
 
-For a good title use adjectives that describe the *distinctive features* of your work, e.g., reliable, scalable, high-performance, robust, low-complexity, or low-cost.
+For a good title use adjectives that describe the *distinctive features* of your work.
 
 Usually finding a good title is an ongoing process spanning over the whole writing process. You should start with some ideas early on and then refine them over the development of the content of the paper. Coming up with a title is actually quite hard, plan enough time for it.
 
@@ -218,7 +218,7 @@ Do:
 * Reducing congestion in wireless networks
 * Partial redundancy elimination in extreme situations
 
-*Please reflect on the difference of these examples. What is makes the don't-examples bad and what makes the do-examples good?*
+*Please reflect on the difference of these examples. What makes the don't-examples bad and what makes the do-examples good?*
 
 ##### Siggraph Titles
 
@@ -316,9 +316,9 @@ Sometimes it is possible to merge an outline of the paper into the list of contr
 
 > The rest of the paper is structured as follows. Section 2 introduced the problem. Section 3 … Finally, Section 8 concludes.
 
-If you ask me: don’t do it! I find it superfluous. Instead, use forward references from the narrative in the introduction and the contributions. But rather have a separated outline paragraph as the one above than no description of the structure of the paper at all.
+If you ask me: don’t do it. I find it superfluous. Instead, use forward references from the narrative in the introduction and the contributions. But rather have a separated outline paragraph as the one above than no description of the structure of the paper at all.
 
-As before the introduction comes yet again down to
+In summary, the introduction comes down to
 
 * What is the problem?
 * Why is the problem important?
@@ -350,12 +350,6 @@ When writing about the related work, you have two competing goals:
 1. Show that you are working on a ‘hot topic’ with a lot of related work.
 2. Show that, and why you are different to all of them.
 
-In computer science the related work comes after the introduction.
-
-![writing_03](img/09/writing_03.png)
-
-Why would you postpone the related work section? Well, there are actually good reasons for that. After the introduction, the reader knows very little detail about the problem yet; so your carefully trimmed description of various technical tradeoffs in the related work might be incomprehensible. Also, starting with describing alternative approaches gets between the reader and your idea.
-
 The related work section is a broad and shallow account of the field and needs to place the contribution of the paper into context. You need to answer the following questions
 
 * What are the rival approaches?
@@ -382,7 +376,7 @@ When writing related work, keep in mind:
 
 ### Main Content
 
-The main content must provide all evidence for your claims. Make sure the overall idea of your project is completely clear before going into details. For the structure of the sections do not recapitulate your personal journey of discovery. The report order is usually different from the order of the investigation. Choose the most direct route to the idea. 
+The main content must provide all evidence for your claims. Make sure the overall idea of your project is completely clear before going into details. For the structure of the sections do not recapitulate your personal journey of discovery. The report order is usually different from the order of the investigation. Choose the most direct route to the solution. 
 
 The specific design of the main content is completely flexible and depends on the type of problem and solution. In one form or the other the main content must include:
 
@@ -402,7 +396,7 @@ The specific design of the main content is completely flexible and depends on th
 * Result
 * Evaluation
 
-Overall treat the main content as if explaining your work with a whiteboard. Conveying an intuition is primary and once the readers have the intuition, they can follow the details. Of course, you can use formalisms and formulas but don’t hide behind it. Carefully balance between showing that you know stuff and being pompous. Don't forget to introduce notations and terminologies first wherever required.
+Overall treat the main content as if explaining your work with a whiteboard. Once the readers have the intuition, they can follow the details. Of course, you can use formalisms and formulas but don’t hide behind it. Carefully balance between showing that you know stuff and being pompous. Don't forget to introduce notations and terminologies first wherever required.
 
 #### Figures
 
@@ -464,7 +458,7 @@ Again, be generous with your thank yous.
 
 #### Redundancies
 
-You have to constantly repeat yourself while never repeating text... You have to bring up your main points over and over again e.g. to lead the reader through your paper. However, it is a very common mistake is to repeat the same phrases, sentences etc. over and over again. As rule of thumb, use a specific phase only once!
+You have to constantly repeat yourself while never repeating text... You have to bring up your main points over and over again e.g. to lead the reader through your paper. However, it is a very common mistake is to repeat the same phrases, sentences etc. over and over again. As rule of thumb, use a specific phrase only once!
   
 
 #### Missing Grounding
@@ -484,7 +478,7 @@ Question all your statements and see if the text answers to everything. For this
 ![writing_18](img/09/writing_18.png)  
 [[weheartit]](https://weheartit.com/entry/222849135)
 
-It is quite common to include many people in the list of authors. Everybody who somehow contributed should be offered an authorship. In computer science a high number of authors is not a bad thing at all. The first author is the one responsible for the project and its execution. The last author is the advisor and / or department head (the person who made the paper possible in terms of position and money). Wether to put advisors as authors even if they have not even read the paper (they should have!) is a discussed practice but also the standard. Also, if it is a big name it will make look your paper better.
+It is quite common to include many people in the list of authors. Everybody who somehow contributed should be offered an authorship. In computer science a high number of authors is not a bad thing at all. The first author is the one responsible for the project and its execution. The last author is the advisor and / or department head (the person who made the paper possible in terms of position and money). Whether to put advisors as authors even if they have not even read the paper (they should have!) is a discussed practice but also the standard. Also, if it is a big name it will make your paper look better.
 
 
 ![writing_26](img/09/writing_26.png)  
@@ -499,7 +493,7 @@ Now, that we know what to write, let's talk about the look, meaning the layout o
 ![writing_04](img/09/writing_04.png)  
 [[xkcd]](https://xkcd.com/1847/)
 
-A paper should have a strong visual structure. Use section, sub-sections and bullet points. If in doubt, rather use a subsection to many than to few. Good layout gives a reader an intuitive understanding of the paper on first glance. My thesis advisor said to me for example that he can approximate a rough grade of a thesis, just by looking at its layout. And I think there is some truth to that. Also, I had it happened to me more than once that I thought I had structured my document well and it was given back to me with the comment that it needs more structure in the layout... A strong structure also helps to convey your content if there is a slight change that someone will only skim your text, e.g. for an application or expose where there are many submissions and some people are only superficially involved in the selection process.
+A paper should have a strong visual structure. Use section, sub-sections and bullet points. If in doubt, rather use a subsection to many than to few. Good layout gives a reader an intuitive understanding of the paper on first glance. My thesis advisor said to me for example that he can approximate a rough grade of a thesis, just by looking at its layout. And I think there is some truth to that. Also, I had it happened to me more than once that I thought I had structured my document well and it was given back to me with the comment that it needs more structure in the layout... A strong structure also helps to convey your content if someone only skims your text, e.g. as part of an application or as an expose, when there are many submissions and some people are only superficially involved in the selection process.
 
 I really can not give you any rules here to follow for structuring your text. It just depends on the content and its context. The only rule is: structure your text well with sections, subsections, bullet points and figures.  
 
@@ -508,26 +502,26 @@ As already mentioned, figures such as drawings, diagrams, tables and graphs are 
 * They are numbered.
 * They have a descriptive caption and a long description in the paragraph, where they are referenced. Keep in mind that good captions are not easy to write.
 * If a figure is not discussed in the text, cut it.
-* Try to match a figure's position to the flow of the text. The figure should be put close to the text, where it is references. This might be especially tricky in LaTeX (we are coming back to LaTeX).  
+* Try to match a figure's position to the flow of the text. The figure should be put close to the text, where it is referenced. This might be especially tricky in LaTeX (we are coming back to LaTeX).  
 
 Using italics or bold font for emphasis are problematic in academic writing. I am struggling with that a little as I think they help to visually structure a text (and I use italics for emphasis in the scripts for example). But the rule in academic writing is to only use italics once for introducing a new term and to never use bold, except for header and titles and such.
 
-For most paper submissions the venue will provide a set of rules for the text format and usually also a template for that. You must stay within the given format, your paper might otherwise be rejected for just the wrong layout. Minor cheats, or let's call them tweaks, are ok as long as they are not really noticeable.
+For most paper submissions the venue will provide a set of rules for the text format and usually also a template for that. You must stay within the given format, your paper might otherwise be rejected for just the wrong layout. Minor cheats, or let's call them tweaks, are ok as long as they are not noticeable 😎.
 
 ![writing_24](img/09/writing_24.png)  
 [[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=926)
 
-Last but not least, make sure that everything in your paper is readable printed on paper! I always have problems with this because I like to use grays for figures and layout and grays that look super nice on screen oftentimes are not distinguishable printed out. The same problem applies when preparing a presentations and the difference between the slides on your screen and the slides on the projector.
+Last but not least, as there is still a small chance that people might print out your paper (hopefully not), make sure that everything in your paper is readable printed! I always have problems with this because I like to use grays in figures and layouts. But grays that look super nice on screen oftentimes are not distinguishable printed out. The same problem applies when preparing a presentations and the difference between the slides on your screen and the slides on the projector.
 
 Now that we have reflected on the beauty of the layout, let's think about the beauty of the language itself.
 
 ## Language
 
-Of course, correct spelling and grammar is a must in academic writing. If you want to improve your grammar (and yes, I know, I myself have still some issues here - did someone say commata?!) there is a universe of resources for that from our friend, the internet. I particularly like to check in with grammar test, such as the [grammar book](http://www.grammarbook.com/interactive_quizzes_exercises.asp).
+Of course, correct spelling and grammar is a must in academic writing. If you want to improve your grammar (and yes, I know, I myself have still some issues here...😔) there is a universe of resources for that from our friend, the internet. 
 
 ### Precision
 
-One of the golden rules for the language of academic writing is - in all disciplines - to be precise. However, what precision or preciseness means differs from discipline to discipline. In our context is means clean, somewhat simple language. The language must not give a reader any extra thinking to do - the content is difficult enough on its own. The value of the work is in your research project contributions and the language should make those aspects clear, not obscure what you did with complicated language. You will notice for yourself that some writings try to hide weak results, thoughts, etc. behind complex language.
+One of the golden rules for the language of academic writing is - in all disciplines - to be precise. However, what precision or preciseness means differs from discipline to discipline. In our context it means clean, somewhat simple language. The language must not give a reader any extra thinking to do - the content is difficult enough on its own. The value of the work is in your research contributions and the language should make those aspects clear, not obscure what you did with complicated language. You will notice for yourself that some writings try to hide weak results, thoughts, etc. behind complex language.
 
 When working with native English speakers as a native German speaker the aspect of simple language is especially difficult. Simple German is in comparison to simple English still ten times more complex. Whenever I work with native English speakers they still simplify my sentences... 🤬 (the learning never stops...).
 
@@ -604,7 +598,7 @@ From that list I want to emphasize the first point one more time: try to avoid p
 
 ### I vs. We
 
-For some reason there is this weird grand rule in academic writing of never using *I*. I guess this is taught to students to make them understand that research results have nothing to do with oneself but aim for an overall truth. Why if that is given, we still can not use I in certain disciplines is not clear to me. In Computer Science it is commonly allowed to use *we*, e.g., to avoid passive voice. Also, there are very, very few papers from just one author anyways.
+For some reason there is this weird grand rule in academic writing of never using *I*. I guess this is taught to students to make them understand that research results have nothing to do with oneself but aim for an overall truth. In Computer Science it is commonly allowed to use *we*, e.g., to avoid passive voice. Also, there are very, very few papers from just one author anyways.
 
 Don't: “The meeting was seen as a ploy to delay the project.”  
 Do: “We saw the meeting as a ploy to delay the project.”
@@ -622,7 +616,7 @@ Do: “In Section 3 we are showing…"
 
 ### Which vs. That
 
-One of my personal pet peeves is the incorrect use of *which* vs. *that*.
+Yes, there is a difference between using *which* and *that*.
 
 *That* 
 
@@ -640,7 +634,7 @@ Essential clauses (that) do not have comma introducing or surrounding them, wher
 
 ### Gender-Inclusive Language
 
-Gender inclusive language is in my opinion an essential step for a progressive society and is fully embraced in the academic world.
+Gender inclusive language is fully embraced in the academic world.
 
 > [Generic pronouns and sexist language: The oxymoronic character of masculine generics](https://link.springer.com/article/10.1007/BF00289252)
 
@@ -658,14 +652,14 @@ The Chicago Manual of Style (as cited in [4]) says:
 * See 5.220: “He or she. To avoid sexist language, many writers use this alternative phrasing (in place of the generic he). Use it sparingly—preferably after exhausting all the less obtrusive methods of achieving gender neutrality. In any event, he or she is much preferable to he/she, s/he, (s)he, and the like.”
 * A good writer can usually recast the sentence to eliminate the need for any personal pronoun at all (p. 157)
 
-As we as a society finally start to accept that genders are much less binary than we used to believe and that gender is in fact a fluid concept, the simple differentiation of *he* or *she* is not enough anymore.
+As we as a society start to accept that genders are much less binary than we used to believe and that gender is in fact a fluid concept, the simple differentiation of *he* or *she* is not enough anymore.
 
 The best solution is here to make the nouns and pronouns plural.  
 
 Don't: A student who loses too much sleep may have trouble focusing during [his/her] exams.  
 Do: Students who lose too much sleep may have trouble focusing during their exams.
 
-You think this is complicated? Yes, it is, and it is rightfully so! The greatest burdens of knowledge in our modern times are *complexity* and *ambiguity*. Kids, we have to deal with it - it is as simple as that.
+You think this is complicated? Yes, it is, and it is rightfully so! The greatest burdens of knowledge in our modern times are *complexity* and *ambiguity* and we have to deal with it - it is as simple as that.
 
 ### Final Reminders
 
@@ -863,13 +857,13 @@ LaTeX and BibTeX files have the advantage that they are simple text files, which
 
 ## Master Theses
 
-I hope it is clear that pretty much all of the above points also apply just in longer form to e.g. a master thesis.
+I hope it is clear that pretty much all of the above points also apply in longer forms, e.g., a master thesis.
 
 Nonetheless I want to mention the following potential differences:
 
-The structure of a master thesis is more flexible. For a paper you should pretty much follow the structure mentioned above with the same or similar section titles. For your thesis it might make sense to have chapters individually named depending on the topic such as *Goal-Oriented Control for Interactive Parameter Retrieval* or for more detailed elaborations such as *research questions* and *technical reflection*, depending on your project. The theoretical master thesis in CTech must refer to the practical part so you will need to add at least one chapter referring to that. Hence, you also might need chapters or sections such as *artist position* and *conceptual reflection*, again depending on your project!
+The structure of a master thesis is more flexible. For a paper you should pretty much follow the structure mentioned above with the same or similar section titles. For your thesis it usually makes sense to have chapters individually named depending on the topic. The theoretical master thesis in CTech must refer to the practical part so you will need to add at least one chapter referring to that. Hence, you also might need chapters or sections such as *artist position* and *conceptual reflection*, again depending on your project!
 
-For your master thesis you will need to discuss more explicitly the research questions and your methodology. Both aspects are in a paper only indirectly discussed as it focuses on the final contribution. In a master thesis you could, for example, have a chapter after the introduction that introduces the research questions, then describes the chosen methodology for answering them, leading at the end of the chapter to the contributions archived by the answering the research questions. You could also move a discussion of the contributions to the end of the thesis. You see, you have a much greater freedom here. And we all know freedom can be a blessing and a curse at the same time 😉.
+For your master thesis you will need to discuss more explicitly the research questions and your methodology. Both aspects are in a paper only indirectly discussed as it focuses on the final contribution. In a master thesis you could, for example, have a chapter after the introduction that introduces the research questions, then describes the chosen methodology for answering them, leading at the end of the chapter to the contributions archived by the answering the research questions. You could also move a discussion of the contributions to the end of the thesis. You see, you have greater freedom here. And we all know freedom can be a blessing and a curse at the same time 😉.
 
 ## Next
 
