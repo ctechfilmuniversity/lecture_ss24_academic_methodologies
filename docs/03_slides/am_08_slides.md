@@ -25,8 +25,252 @@ layout:false
 --
 * Language & Style
 
+---
+template:inverse
+
+
+#### Detour
+
+# Survey About Racism in Football
+
+
+
+---
+
+.center[<img src="../02_scripts/img/07/umfrage_01.png" alt="umfrage_01" style="width:92%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+
+
+.center[<img src="../02_scripts/img/07/umfrage_02a.png" alt="umfrage_02a" style="width:45%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+
+
+.center[<img src="../02_scripts/img/07/umfrage_05.png" alt="umfrage_05" style="width:45%;">]
+
+.footnote[[Sportschau. 2024. Instgram]]
+
+
+---
+
+.center[<img src="../02_scripts/img/07/umfrage_03.png" alt="umfrage_03" style="width:92%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+
+[.center[<img src="../02_scripts/img/07/umfrage_04.png" alt="umfrage_04" style="width:92%;">]](https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3Nwb3J0c2NoYXUvMjAyNC0wNi0wNV8yMS0zMC1NRVNa)
+
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+* About the men's national football team
+* How diversity within developed over the years
+* Football players re-tell their experiences with racism
+
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+???
+.task[COMMENT:]  
+
+* In dem Film geht es um die deutsche Nationalmannschaft und wie diese im Laufe der vergangenen Jahrzehnte vielfältiger geworden ist. Deutsche Fußballprofis mit Migrationsgeschichte sprechen im Film auch über die Rassismus-Erfahrungen, die sie im Laufe ihrer Karriere gemacht haben. 
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+
+> [...] alles in allem ein eindrucksvoller, differenzierter Beitrag. Er behauptet nicht, dass alles schlecht ist, sondern erzählt auch, was sich in den vergangenen Jahrzehnten zum Besseren entwickelt hat. Und es ist ein Film, der vielen Perspektiven Raum gibt, auch denen, die man eigentlich lieber gar nicht hören will. 
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
 --
-* Citations
+* Common use of racist terms, e.g. among fans
+
+--
+*  A man in a parking lot in Thuringia says that the teams are "no longer German" and that a "real German" for him is "light-skinned"
+
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+???
+.task[COMMENT:]  
+
+* „Unser Reporter Philipp Awounou wurde in Interviews bei den Dreharbeiten zu der Dokumentation ‚Einigkeit und Recht und Vielfalt‘ mit der Aussage konfrontiert, dass zu wenige ‚echte‘, hellhäutige Deutsche auf dem Fußballplatz stehen. Das wollten wir bewusst nicht anekdotisch wiedergeben, sondern auf fundierte Daten stützen. Daher haben wir mit unseren Kollegen von Infratest Dimap die Umfrage in Auftrag gegeben. Wir selber sind bestürzt, dass die Ergebnisse sind wie sie sind, aber sie sind auch Ausdruck der gesellschaftlichen Lage im heutigen Deutschland. Der Sport spielt in unserer Gesellschaft eine wichtige Rolle, die Nationalmannschaft ist ein starkes Vorbild für Integration.“
+
+--
+
+> Does empiric evidence support these personal experiences and anecdotes?
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+Survey by the opinion polling institute (Meinungsforschungsinstitut) Infratest Dimap 
+
+* Population: Eligible voters in Germany
+* 1.304 respondents
+* Survey period: 02.04.2024 - 03.04.2024
+* Survey method: Random telephone and online survey
+* Variation range (Schwankungsbreite): 2\* bis 3\** percentage points
+    * \* With a proportional value (Anteilswert) of 10% \** of 50%
+
+.footnote[[WDR Presselounge. 2024. [Rund ein Fünftel wünscht sich mehr Nationalspieler mit weißer Hautfarbe – 65 Prozent stimmen dem eher nicht oder überhaupt nicht zu](https://presse.wdr.de/plounge/wdr/programm/2024/06/20240601_umfrage_nationalspieler.html). WDR]]
+
+
+???
+.task[COMMENT:]  
+
+* Die Schwankungsbreite gibt an, wie stark die Ergebnisse der Umfrage um den tatsächlichen Wert variieren können. Dies wird auch als "Fehlermarge" oder "Konfidenzintervall" bezeichnet.
+* Diese Schwankungsbreiten berücksichtigen die Unsicherheit, die bei der Durchführung von Stichprobenumfragen auftritt, und helfen dabei, die Genauigkeit der Umfrageergebnisse besser einzuschätzen.
+    * Bei einem Anteilswert von 10% beträgt die Schwankungsbreite 2 Prozentpunkte. Das bedeutet, wenn 10% der Befragten eine bestimmte Antwort gegeben haben, kann der tatsächliche Wert (aufgrund der Unsicherheit der Stichprobe) zwischen 8% und 12% liegen.
+    * Bei einem Anteilswert von 50% beträgt die Schwankungsbreite 3 Prozentpunkte. Das bedeutet, wenn 50% der Befragten eine bestimmte Antwort gegeben haben, kann der tatsächliche Wert zwischen 47% und 53% liegen.
+* Eine Schwankungsbreite von 2 bis 3 Prozentpunkten ist im allgemeinen Kontext von Umfragen als gut und verlässlich anzusehen. Sie bietet eine ausgewogene Balance zwischen Genauigkeit und Praktikabilität der Datenerhebung.
+
+* Befragt wurden 1.304 Wahlberechtigte in der Zeit vom 2. bis zum 3. April 2024. Dabei zeigen sich deutliche Unterschiede bei den Partei-Anhängern: Unter Anhängern der AfD wünscht sich knapp jeder Zweite (47 Prozent) eine weißere Nationalmannschaft, unter Anhängern des Bündnis Sahra Wagenknecht sind es 38 Prozent. Die Zustimmungswerte von Anhängern der Union (18 Prozent), der SPD (14 Prozent) und der Grünen (5 Prozent) fallen geringer aus.
+
+
+---
+#### Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+> Im Juni beginnt in Deutschland die Fußball-Europameisterschaft der Männer. Geben Sie bitte an, ob Sie der folgenden Aussagen zur deutschen Fußball- Nationalmannschaft voll und ganz zustimmen, eher zustimmen, eher nicht zustimmen oder überhaupt nicht zustimmen.
+
+* Ich fände es besser, wenn wieder mehr weiße Spieler in der deutschen Nationalmannschaft spielen.
+* Ich finde es gut, dass in der deutschen Mannschaft mittlerweile viele Fußballer spielen, die einen Migrationshintergrund haben.
+* Ich finde es schade, dass der derzeitige Kapitän der deutschen Nationalmannschaft türkische Wurzeln hat.
+
+.footnote[[WDR Presselounge. 2024. [Rund ein Fünftel wünscht sich mehr Nationalspieler mit weißer Hautfarbe – 65 Prozent stimmen dem eher nicht oder überhaupt nicht zu](https://presse.wdr.de/plounge/wdr/programm/2024/06/20240601_umfrage_nationalspieler.html). WDR]]
+
+
+???
+.task[COMMENT:]  
+
+* Die Fragen im Wortlaut
+* Inwiefern das Ergebnis bei einer weniger suggestiv wirkenden Frage („Wie finden Sie, dass der DFB-Kapitän türkischer Herkunft ist?“) anders ausgefallen wäre, ist unklar. So oder so gilt: Beim Thema Umfragen sollten Medien grundsätzlich vorsichtig sein. Weil etwa die Fragestellungen, wie in diesem Fall, die Ergebnisse zumindest beeinflussen können. 
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+Ich fände es besser, wenn wieder mehr weiße Spieler in der deutschen Nationalmannschaft spielen.
+
+* 65% stimmt dieser Aussage eher nicht oder überhaupt nicht zu
+* 21% stimmt zu
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+Ich finde es schade, dass der derzeitige Kapitän der deutschen Nationalmannschaft türkische Wurzeln hat.
+
+* 67% stimmt dieser Aussage eher nicht oder überhaupt nicht zu
+* 17% stimmt zu
+
+
+---
+## Social Media Presentation
+
+.center[<img src="../02_scripts/img/07/umfrage_01.png" alt="umfrage_01" style="width:75%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+## Social Media Presentation
+
+
+.center[<img src="../02_scripts/img/07/umfrage_02.png" alt="umfrage_02" style="width:70%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+
+> Einigkeit und Recht und Vielfalt will ein authentischer und fairer Beitrag über Identität und Deutschsein im Fußball und der Gesellschaft sein. Oftmals polarisieren Teile dieses Themengebiets. Unser Interesse ist das Gegenteil: depolarisieren, deeskalieren, differenzieren.
+
+－ Philipp Awounou
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+???
+.task[COMMENT:]  
+
+* Während dem Film das durchaus gelingt, haben der Social-Media-Post, die Vermarktung der Umfrage losgelöst vom Film und die Debatte über all das eher das Gegenteil erreicht. 
+
+
+---
+## Proxy Debate
+
+.center[<img src="../02_scripts/img/07/umfrage_03.png" alt="umfrage_03" style="width:75%;">]
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+
+???
+.task[COMMENT:]  
+
+* Der Fehler liegt aber auch nicht bei der empörten Instagram-Community, die nicht auf Anhieb verstanden hat, wie die Umfrage gemeint war und warum sie durchgeführt wurde. Diesen Kontext herzustellen – und damit diese aufgeheizte Debatte zu verhindern – wäre Aufgabe des WDR und der zuständigen Social-Media-Abteilung gewesen. Und wenn ein Post den nötigen Kontext nicht leisten kann, dann muss man ihn entweder von vornherein besser machen oder lieber lassen. 
+
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+> [...] Wann, wenn nicht jetzt wäre also ein guter Zeitpunkt, um offen über Rassismus zu sprechen? Denn wenn 21 Prozent der Deutschen mehr weiße Nationalspieler haben möchten, dann sind diese Befragten das Problem – und nicht die Umfrage. Aber durch ihre Aussagen befeuern Nagelsmann und Kimmich die Debatte darüber, ob man sowas überhaupt fragen darf.
+
+－ Sportjournalist Maximilian Rieger
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+
+---
+## Documentation *Einigkeit und Recht und Vielfalt* by Philipp Awounou 
+
+
+> Um Rassismus sichtbar zu machen, müsse man ihn leider abfragen.
+
+－ Philipp Awounou
+
+.footnote[[L. Kräher. 2024. [Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/) Übermedien]]
+
+
+???
+.task[COMMENT:]  
+
+* Es reiche aus seiner Sicht nicht, die Erfahrungen von Protagonisten wie Asamoah und Tekkal als Beleg für Rassismus zu nehmen. Denn genau diese Erfahrung werde Menschen, die von Rassismus betroffen sind, ja immer wieder abgesprochen. Er finde es schade, dass die Umfrage an sich nun ein wichtigeres Thema sei als die Ergebnisse. Es sei nicht die Art von Debatte, die er sich gewünscht hatte. 
+* Was ist schief gelaufen?
+
+
+
+---
+## Social Media Presentation
+
+.center[<img src="../02_scripts/img/07/umfrage_06.png" alt="umfrage_06" style="width:33%;"><img src="../02_scripts/img/07/umfrage_07.png" alt="umfrage_07" style="width:33%;"><img src="../02_scripts/img/07/umfrage_08.png" alt="umfrage_08" style="width:33%;">[...]]
+
+.footnote[[Sportschau. 2024. Instgram]]
+
+
+
+---
+## Umfrage zu Rassismus im Fußball
+
+Artikel von L. Kräher:
+
+[Finden Sie es schlimm, dass der WDR eine Umfrage zu Rassismus im Fußball beauftragt hat?](https://uebermedien.de/95764/finden-sie-es-schlimm-dass-der-wdr-eine-umfrage-zu-rassismus-im-fussball-beauftragt-hat/)
+
+Übermedien, 2024.
+
+
 
 
 ---
@@ -40,8 +284,10 @@ template:inverse
 .center[<img src="../02_scripts/img/09/writing_16.png" alt="writing_16" style="width:50%;"> .imgref[[[imgur]](https://imgur.com/gallery/ex4PAUZ)]]
 
 
+???
+.task[COMMENT:]  
 
-
+* Adam Savage is an American special effects designer, actor, educator, and television personality. He is best known as the co-host of the popular television series "MythBusters," which aired on the Discovery Channel from 2003 to 2016. Alongside Jamie Hyneman, Savage tested the validity of various myths, urban legends, and popular misconceptions through scientific methods and experimentation.
 
 ---
 ## Academic Writing
@@ -471,7 +717,7 @@ Since abstracts will also be used by search engines, ideally use terms that iden
 * Why is it a problem and why is it interesting?
     * Your solution and achievements
 --
-* What achieves your solution
+* What your solution achieves
     * Say something catchy
 --
 * What follows from your solution
@@ -1067,6 +1313,166 @@ Now that we have reflected on the beauty of the layout, let's think about the be
 .center[<img src="../02_scripts/img/09/figure_01.png" alt="figure_01" style="width:44%;">] 
 
 
+
+
+
+
+
+---
+template: inverse
+
+# Language
+
+
+???
+.task[COMMENT:]  
+
+* Of course, correct spelling and grammar is a must in academic writing. If you want to improve your grammar (and yes, I know, I myself have still some issues here - did someone say commata?!) there is a universe of resources for that from our friend, the internet. I particularly like to check in with grammar test, such as the [grammar book](http://www.grammarbook.com/interactive_quizzes_exercises.asp).
+
+*What do you think we need to look out for in terms of language?*
+
+---
+.header[Language]
+
+## Precision
+
+
+???
+.task[COMMENT:]  
+
+* One of the golden rules for the language of academic writing is - in all disciplines - to be precise. However, what preciseness means differs from discipline to discipline. In our context is means clean, somewhat simple language.
+
+--
+* Clean, simple language
+
+???
+.task[COMMENT:]  
+
+*  The language must not give a reader any extra thinking to do - the content is difficult enough on its own. The value of the work is in your research project contributions and the language should make those aspects clear, not obscure what you did with complicated language. You will notice for yourself that some writings try to hide weak results, thoughts, etc. behind complex language.
+
+--
+* Rule of thumb: use as few words as possible
+
+
+???
+.task[COMMENT:]  
+
+* When working with native English speakers as a native German speaker the aspect of simple language is especially difficult. Simple German is in comparison to simple English still ten times more complex. Whenever I work with native English speakers they still simplify my sentences... 🤬 (the learning never stops...).
+
+The website [daily writing tips](https://www.dailywritingtips.com/) describes the following helpful [techniques for more precise writing](https://www.dailywritingtips.com/10-techniques-for-more-precise-writing/)
+
+---
+.header[Language | Precision]
+
+## Avoid Vague Nouns  
+
+Phrases formed around general nouns such as *aspect*, *degree*, and *situation* clutter sentences.  
+
+* Don't: “She is an expert in the area of international relations.”  
+* Do: “She is an expert in international relations.”  
+
+---
+.header[Language | Precision]
+
+## Reduce Verb Phrases to Simple Verbs  
+
+Identify the verb buried in a verb phrase and omit the rest of the phrase.  
+
+* Don't: “The results are suggestive of the fact that tampering has occurred.”  
+* Do: “The results suggest that tampering has occurred.”
+
+---
+.header[Language | Precision]
+
+## Avoid Expletives  
+
+Don’t start sentences with “There is,” “There are,” or “It is.”
+
+* Don't: “There are many factors in the product’s failure.”  
+* Do: “Many factors contributed to the product’s failure.”
+
+
+
+
+---
+.header[Language | Precision]
+
+## Use Words, Not Their Definitions  
+
+Replace explanatory phrases with a single word that encapsulates that explanation.  
+
+* Don't: “The crops also needed to be marketable so that families would be able to sell any yields that exceeded what they personally required.”  
+* Do: “The crops also needed to be marketable so that families would be able to sell any surplus.”
+
+
+
+---
+.header[Language | Precision]
+
+## Eliminate Prepositional Phrases
+
+Replace “(noun1) of the (noun2)” phrasing with “(noun2)’s (noun1)” phrasing.
+
+* Don't: “The decision of the committee is final.”  
+* Do: “The committee’s decision is final.”
+
+---
+.header[Language | Precision]
+
+## Use Active Voice  
+
+When a sentence includes *be* or any other copulative verb, such as *is* or *are*, recast the sentence to omit the verb.
+
+* Don't: “The meeting was seen by us as a ploy to delay the project.”  
+* Do: “We saw the meeting as a ploy to delay the project.”
+
+
+---
+.header[Language]
+
+## Gender-Inclusive Language
+
+Gender inclusive language is fully embraced in the academic world.
+
+--
+
+Overall, the best solution is to make the nouns and pronouns plural.  
+
+* Don't: A student who loses too much sleep may have trouble focusing during [his/her] exams.  
+* Do: Students who lose too much sleep may have trouble focusing during their exams.
+
+
+---
+template:inverse
+
+# Style
+
+---
+## Style
+
+In academic writing you must avoid
+
+* emotional language,
+* flowery language, and
+* superlatives.
+
+
+???
+.task[COMMENT:]  
+
+* Overall though, writing style simply is subjective. If you give your paper to experienced writers they will be affected by their personal style and will give you many, many corrections. These corrections might not improve errors but might just try to make the text match more the personal writing style of the corrector. Take in the feedback, reflect on it but also stand your ground if your personal writing style is different.
+
+---
+## Style
+
+.center[<img src="../02_scripts/img/09/writing_07.gif" alt="writing_07" style="width:100%;">]  
+[[phdcomics]](http://www.phdcomics.com/comics/archive.php?comicid=1576)
+
+
+
+
+
+
 ---
 template:inverse
 
@@ -1075,10 +1481,9 @@ template:inverse
 ---
 # Next
 
-Next we will look into overall language and writing style.
+.left-even[<br >Next we will look into publishing and academic careers.]
 
-.center[<img src="../02_scripts/img/09/writing_07.gif" alt="writing_07" style="width:100%;">]
-[[phdcomics]](http://www.phdcomics.com/comics/archive.php?comicid=1576)
+.right-even[<img src="../02_scripts/img/10/pub_process_22.png" alt="pub_process_22" style="width:90%;">[[phdcomics]](http://phdcomics.com/comics/archive.php?comicid=538)]
 
 
 
