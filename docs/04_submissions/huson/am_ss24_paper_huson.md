@@ -86,3 +86,24 @@ I've strayed from my original ideas after reading about "The Internet of Animals
 
 ---
 
+## Session 04 - Statistics - Methodology  
+I aim to examine different artworks which make use of data of the nonhuman world, whether it be animal tracking data, scans, etc. Using a theoretical framework, I then examine these artworks in order to understand their dramaturgy, i.e. their narrative scaffolding. I've been collecting different papers, essay and artworks and am thinking about which theories and defintions to use as well as which artworks to analyse. 
+
+## Session 05 - Qualitative Research - Results
+I want to present a perspective on data art that is grounded in different theories applied to different works. In the best case, I come up with some new idea on the form of data art as it relates to the nonhuman world. 
+
+## Session 06 - Working With Literature 
+"Defining Data as an Art Material" - PhD Thesis (2018) by Julie Freeman, Queen Mary University of London 
+- Julie Freeman is a data artist who, in her own words, "translates nature". Both her artwork and her PhD will provide very useful to my paper. She views data as an art material, which I might base my theoretical conception of data in art around. Her artworks are great examples of how data provides a different lens through which to view the other-than-human world and allows for new ways of telling stories. 
+
+Sørensen, V., Lansing, J. Art, technology and the Internet of Living Things. AI & Soc 38, 2401–2417 (2023). https://doi.org/10.1007/s00146-023-01667-4
+- This paper provides a lot of interesting artworks for me to reference. Also, the idea of the Internet of Living Things (in a slightly different context also referred to as The Internet of Animals) might provide useful to my research. 
+
+"Data Visualisation as New Abstraction and Anti-Sublime" by Lev Manovich 2002 
+- Lev Manovich's conception of data visualisation, along with Freeman's ideas, will probably make up my perspective of data art in the paper to begin with. 
+
+Here's a link to the papers, interviews, videos, etc. I've collected thusfar for AM: https://www.are.na/moritz-h/ctech-ss-24-academic-methodologies
+
+# Session 07 - Abstract
+Abstract (to be inserted into LaTex document): Human perception inherently limits our ability to comprehend other-than-human beings, leading to the anthropomorphisation of these entities in our fictional narratives. This paper introduces the concept of "datamorphisation" to describe the shift in perspective that occurs when the (fictional) representation of an entity is constructed through data collected about it. Unlike anthropomorphising, which imposes human characteristics onto non-human entities, datamorphising both simplifies and broadens our conceptualisation of these entities. This paper explores the mechanics of datamorphisation in data art focused on other-than-human beings, employing exemplary artworks as case studies. By using data collected on the activities of beings that elude our fundamental understanding, I argue that we gain an additional perspective through datamorphising, complementing the anthropomorphic viewpoint.
+
