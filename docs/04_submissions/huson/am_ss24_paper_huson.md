@@ -107,3 +107,41 @@ Here's a link to the papers, interviews, videos, etc. I've collected thusfar for
 # Session 07 - Abstract
 Abstract (to be inserted into LaTex document): Human perception inherently limits our ability to comprehend other-than-human beings, leading to the anthropomorphisation of these entities in our fictional narratives. This paper introduces the concept of "datamorphisation" to describe the shift in perspective that occurs when the (fictional) representation of an entity is constructed through data collected about it. Unlike anthropomorphising, which imposes human characteristics onto non-human entities, datamorphising both simplifies and broadens our conceptualisation of these entities. This paper explores the mechanics of datamorphisation in data art focused on other-than-human beings, employing exemplary artworks as case studies. By using data collected on the activities of beings that elude our fundamental understanding, I argue that we gain an additional perspective through datamorphising, complementing the anthropomorphic viewpoint.
 
+
+## Feedback Lena
+
+### Content
+
+First of all: interesting! I am looking forward to reading the paper.  
+  
+However, with this abstract it is hard to understand what you mean with datamorphism: are you referring to the perception of an audience or the characteristics of data-based representations, e.g. their audiovisual features? Or both? If it is the first, does the audience need to know that the representation is data-based?
+  
+Also, I think you create confusion with your use of "fictional": if I understand correctly, you mean that the context is fictional, e.g. an artwork or a story - but the other-than-human being doesn't need to be fictional, right? It could be, e.g., an animal?
+
+### Writing
+
+Human perception inherently limits our ability to comprehend other-than-human beings, leading to the anthropomorphisation of these entities in our fictional narratives. 
+
+* This is a heavy claim that I do not recommend making without proof / arguments for it. If you have meaningful references that support this statement, you could say "Research has shown that human perception...." (not the most elegant, though). Alternatively, you could tone down / simplify the sentence a bit, e.g. (just as suggestion, not fine-tuned) "Limited comprehension of other-than-human beings often leads to the anthropomorphisation of these entities in fictional narratives."
+* What does "inherently" mean in this context?
+
+This paper introduces the concept of "datamorphisation" to describe the shift in perspective that occurs when the (fictional) representation of an entity is constructed through data collected about it. 
+
+* This sentence is hard to understand. Also, there is a bit of a jump between the first and second sentence.
+* Specifically, I can not follow "shift in perspective that occurs when the (fictional) representation of an entity is constructed through data collected about it"? Are we focusing on the perception or the construction?
+    * Are you implying that if I know that character X in story Y, let's say the bear Hugo, is based on actual data, let's say we follow Hugos journey which is based on actual movement data from bears in Canada, I perceive Hugo somehow differently than if I wouldn't know about the data and would just be reading his story? In what way do those perceptions differ? What is the shift?
+* Also "describing" claims a lot. How about simply saying "investigating", "examinating" or "analysis". Then, you don't need to end with a proper description of the shift but just your investigation results.
+* I personally am not a big fan of a phrasing like "this paper does X" - but it is fine. You could also say "I introduce" or "I conceptualize"
+* How about something along the lines of "Similar to the perceptional bias of anthropomorphisation, this paper introduces the concept of "datamorphisation" and examines audience responses to fictional representations that are based on real-world data."
+    * OR, if it is more about the construction of a representation: "In reference to the mechanics of anthropomorphisation, this paper introduces the concept of "datamorphisation" and examines real-world data integration and its communication within fictional representations.
+* I would continue now with the "how":
+
+With a case study of exemplary artworks that feature data-based other-than-human beings within a fictional context, I analyse their representation / perception (?). This analysis concludes that datamorphisation simplifies and broadens our understanding of other-than-human being, counterbalancing the anthropomorphic viewpoint.
+
+In summary (not polished and with assumptions of what you might mean - it might not fit):
+
+
+Limited comprehension of other-than-human beings often leads to the anthropomorphisation of these entities, for example animals, in fictional narratives. In reference to the mechanics of anthropomorphisation, this paper introduces the concept of “datamorphisation”. Datamorphisation examines real-world data integration and its communication within fictional representations. A case study of exemplary artworks that feature data-based other-than-human beings analyses the beings' specific data-based representation characteristics and their possible perception of an audience. The analysis concludes that datamorphisation simplifies and broadens an understanding of other-than-human being, counterbalancing the anthropomorphic viewpoint.
+  
+   
+As always, all feedback is meant as suggestions only!
