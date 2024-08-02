@@ -120,6 +120,11 @@ Also, I think you create confusion with your use of "fictional": if I understand
 
 ### Writing
 
+The abstract is already quite strong. However, overall you could try to make is easier to understand and more specific in what you mean.
+
+Line by line:  
+  
+
 Human perception inherently limits our ability to comprehend other-than-human beings, leading to the anthropomorphisation of these entities in our fictional narratives. 
 
 * This is a heavy claim that I do not recommend making without proof / arguments for it. If you have meaningful references that support this statement, you could say "Research has shown that human perception...." (not the most elegant, though). Alternatively, you could tone down / simplify the sentence a bit, e.g. (just as suggestion, not fine-tuned) "Limited comprehension of other-than-human beings often leads to the anthropomorphisation of these entities in fictional narratives."
