@@ -1,11 +1,5 @@
----
-layout: default
-title: Session
-nav_exclude: true
----
-
-
-## Brainstorming
+## Session 01 
+### 01.01 - Topic Brainstorming
 
 - **Copyright with AI**
 - Interaction Design
@@ -16,7 +10,9 @@ nav_exclude: true
 - Interactive Music Videos
 - **Visual art and blind people**
 
-## Copyright with AI
+### 01.02 Topic Selection
+
+#### *Copyright with AI*
 
 **What specifically interests you within that topic?**
 
@@ -41,9 +37,10 @@ This is a topic I had a lot of thoughts about while I was working on my First Te
 - Developing new legal frameworks tailored to AI-generated content 
 
 
-## New Media and Sustainability
+#### *New Media and Sustainability*
 
 **What specifically interests you within that topic?**
+
 This topic interests me because I try to be sustainable and I want to know how much my work effects the sustainability of the planet and I would love to know what can be done to work with new media in a sustainable way.
 
 **What further characteristics does the topic have?**
@@ -69,7 +66,7 @@ This topic interests me because I try to be sustainable and I want to know how m
 
 
 
-## Visual Art and Blind People
+#### *Visual Art and Blind People* 
 
 **What specifically interests you within that topic?**
 
@@ -97,5 +94,49 @@ I'm interested in how art can transcend visual boundaries to become accessible a
 - Conducting interviews with blind people about their art experiences
 - Studying existing accessible art programs
 - Experimentation with different technologies like sound installations 
+
+
+## Session 02
+### 02.01 - The Storyline of Your Paper
+
+1. What are the main challenges in making AI systems sustainable, and how are researchers addressing them?
+
+2. How can public awareness and understanding of AI’s environmental impact be improved?
+
+3. **What are the key properties in measuring sustainable AI systems, and how can innovative communication methods be developed to effectively convey the environmental footprint of AI technologies to the public, potentially using comparisons with more familiar metrics?**
+
+
+## Session 04
+### 04.01 Paper Methodology
+
+La mia ricerca consisterà di due parti distinte: 
+- nella prima andrò ad analizzare quali sono i fattori principali che determinano l'impatto ambientale dell'Intelligenza Artificiale. Per farlo proporrò una lista dei fattori con una breve spiegazione di come influiscono e, quando possibile, fornirò dei dati quantitativi a sostegno della tesi. 
+- nella seconda parte presenterò una proposta per comunicare i dati racconti al meglio per il pubblico generale, per farlo presenterò un'idea di comunicazione e fornirò una spiegazione del perchè penso possa essere efficace.  
+
+## Session 05
+### 05.01 Paper Knowledge and Results 
+
+Come risultato finale del mio paper mi piacerebbe riuscire a fornire una lista chiara e ben definita di quali siano i fattori principali che deterinano l'impatto ambientale dell'Intelligenza Artificiale. Mi piacerebbe realizzare anche una info grafica che visualizzi i vari fattori, magari anche in proporzione. Mi piacerebbe anche fornire una chiarificazione su quali dati siano ancora abbastanza oscuri al pubblico. Per la seconda parte del paper vorrei riuscire ad arrivare con una idea completa e quindi anche con il risultato visivo, non solo concettualmente.
+
+## Session 06
+### 06.01 Working with Literature 
+
+I've decided to keep track of my literature using JabRef.
+
+## Session 07
+### 07.01 Reflection on past experiences
+
+What worked well and what didn't:
+
+- structure/layout of the thesis was weak and I changed it constantly while writing 
+- I could easily rewrite what other said 
+- Once I knew what I needed to write I could write for hours and get a well job done
+- Finding synonims and not repeating myself was difficult 
+- I had my notes well structured and this helped me a lot with writing, but I think I relied on my literature too much 
+
+## Session 08
+### 08.01 Abstract 
+
+Artificial Intelligence (AI) systems are reshaping industry and everyday life, from autonomous driving technologies to turning text into images. But their transformative power is raising concerns about their environmental footprint. These systems consume vast computing resources, contributing to global warming through high carbon emissions, energy consumption, water use and the extraction of rare materials. Researchers are focusing on AI’s sustainability in environmental, social and economic dimensions, highlighting the need for clear assessments. This paper examines key factors such as carbon footprint, energy consumption, water usage, and resource efficiency throughout the AI lifecycle, stressing the need for sustainable practices. It also addresses the challenge of raising public awareness and ensuring transparency. The study emphasises the need to strike a balance between innovation and sustainability in the development of AI. 
 
 
