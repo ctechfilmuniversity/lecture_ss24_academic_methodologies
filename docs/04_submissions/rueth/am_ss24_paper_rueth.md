@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Possible Topics - Maximilian Rueth
 
-
+## Session 01 
 ### Brainstorming
 
 motion capture libraries
@@ -53,7 +53,7 @@ Parametric structures from nature in a design context
     - maybe having interviews with professional who already worked such projects
     - analysing testimonial regarding this topic
 
-____
+
   
 ### Topic 2: VR with therapeutic effect
 
@@ -77,7 +77,7 @@ ____
 
     - analysing already exisiting projects
     - maybe having interviews with professional who already worked such projects
-____
+
   
 ### Topic 3: Motion Capture Libraries in the age of AI
 
@@ -99,3 +99,34 @@ ____
 * How could you solve those questions? 
   - analysing already existing applications
   - review papers that talk about this topic 
+
+## Session 02
+### The Storyline of Your Paper
+
+Because I'm still unsure about my exact topic, I did'nt create a storyline for now and wanted to research a bit more for this session and ask myself what really interests me and what I personally want from the paper.
+
+## Session 04
+### Paper Methodology
+
+For this session I decided to do a bit more research about different Motion Capture methods, that have a "unique" approach in some way. Maybe I find a new method or something that still lacks some of its key elements or as some errors. Maybe my paper could be about solving these errors.
+
+
+## Session 06
+### Qualitative Research - Results
+
+My idea for the paper would be to do research on some unique motion capture approaches and compare them to each other in my paper. I would propably like to rate them in a way, but I would have to come up with a system first.
+
+## Session 07
+### Working with Literature
+
+I decided to focus on the topic of "Animal Motion Capture". There are some really interesting and unique approaches, which are also not that well known. Especially when you think about the pipline for films, it might have some potential.
+
+## Potenital Research Question
+### (still a prototyp)
+
+What are the technological challenges and (modern) possibilities in Motion Capture systems for animals in a cinematographic context?
+
+## Abstract
+### Title: Beyond Human Motion: Exploring Advanced Techniques and Challenges in Animal Motion Capture for Cinematography
+
+Animal motion capture in cinematography presents significant challenges, particularly in achieving non-invasive tracking while maintaining natural behaviors. Although human motion capture has seen considerable advancements, applying similar techniques to animals requires innovative solutions. This paper explores a variety of methods, including markerless capture systems for underwater creatures, long-range data collection for wildlife, and advanced tracking approaches for large four-legged animals. Through a comparative analysis, we evaluate these methods’ effectiveness and potential integration into cinematic works while revealing their limitations. Further advancements are essential, particularly in improving accessibility, enhancing automation, and addressing ethical considerations, to ensure these technologies can be more broadly and effectively applied across the film industry and enhance the realism and immersion of animal portrayals in cinema.
