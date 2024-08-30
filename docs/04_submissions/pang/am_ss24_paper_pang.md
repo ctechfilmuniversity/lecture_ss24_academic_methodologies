@@ -1,3 +1,11 @@
+## Abstract Submission
+
+### Abstract:
+
+Mindfulness, a traditional practice rooted in Buddhism, has gained significant attention across research, education, psychology, and technology, with numerous studies demonstrating its benefits for overall well-being. While mindfulness is often associated with formal practices like sitting meditation, it includes much more. Plum Village, a Buddhist monastery founded by Thich Nhat Hanh, the "Father of Mindfulness," emphasises integrating mindfulness into every aspect of daily life, such as walking, washing dishes, listening, and group sharing. Although technologies like mobile apps, web-based tools, VR environments have been developed to support mindfulness, they primarily focus on sitting meditation and breath awareness, neglecting the full spectrum of mindfulness practices. This paper reviews the traditional elements missing in current mindfulness technologies, identifying key trends and gaps. We provide an overview of these missing elements and propose a framework for integrating them into technology, aiming to guide future developments of more well-rounded technological mindfulness tools.
+
+
+
 ## Session 01 - Introduction
 
 ### Task 01.01 - Topic Brainstorming
@@ -97,23 +105,40 @@ Submission: Add your questions to your paper file (am_ss24_paper_lastname.md).
 
 It is time to think about how you want to answer the question(s) you are posing. Brainstorm which methods and/or which steps you want to apply. This task does not aim to find your personal journey of investigation. You should work on defining the approach that you will present in a paper as your methodology (but of course, you can also reflect on what you, personally, need to do to get there). If you are still considering different questions, work on all of them. This might help to make a choice between them.
 
-Submission: Add a description of a possible methodology in your paper file (am_ss24_paper_lastname.md). Bullet points are fine.
+Submission: 
+- Case Studies: review the current use of innovative technolgoies 
+- Literature review: review the exsiting literature on mindfulness techonogies and find a trend/missing element. 
 
 ## Session 05 - Qualitative Research
 Think about the knowledge or result you want to present in your paper. Which specific outcome are you planning and hoping for and which format should it have?
 
-Submission: Add a description of your potential result(s) in your paper file (am_ss24_paper_lastname.md). Bullet points are fine.
-
+Submission: 
+- Popular approaches and trends in the current mindfulness technologies
+- Missing element of mindfulness practice
+- The challanges of using technology for cultivating mindfulness
+   
 ## Session 06 - Working With Literature
 
 Have a look at possible tools and setups to organize your collected papers. If you had to choose now, which tool or setup would you choose, why?
 
-Submission: -
+Submission: 
+- After researching topic, I found that *Zotero* could be a good choice for collecting papers, oragnising and citation. It's free and easy to use , collect paper, oragnise and cite it.  For writing the paper, *Overleaf* seems a good starting place. It's an online tool for LaTeX editor with with intuitive functions.
 
-Your Paper
 Collect related work for your paper. List around three, ideally academic, publications that you are planning to reference in your paper. Describe briefly, how the publications are related and relevant.
 
-Submission: Add references and a description of their relevance in your paper file (am_ss24_paper_lastname.md). Bullet points are fine.
+Submission: 
+
+- <a href="https://www.researchgate.net/publication/314490115_A_Review_of_Interactive_Technologies_as_Support_Tools_for_the_Cultivation_of_Mindfulness">A Review of Interactive Technologies as Support Tools for the Cultivation of Mindfulness</a> 
+
+   - This review covers how interactive technologies support mindfulness practices. It provides a basis for understanding current tools and their limitations.
+
+- <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01354/full">Immersive Interactive Technologies for Positive Change: A Scoping Review and Design Considerations</a> 
+  
+   - This paper offers an overview of deign elements crucial when it comes to enhancing mindfulness practices with technology
+
+- <a href="https://www.researchgate.net/publication/382272018_Beyond_Meditation_Understanding_Everyday_Mindfulness_Practices_and_Technology_Use_Among_Experienced_Practitioners">Beyond Meditation: Understanding Everyday Mindfulness Practices and Technology Use Among Experienced Practitioners</a> 
+
+   - This paper offers a thorough understanding of digital technologies in cultivating mindfulness, including their benefits, limitations, and potential uses.
 
 ## Session 07 - Academic Writing
 Your Writing
