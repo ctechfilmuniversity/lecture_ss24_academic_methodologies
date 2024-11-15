@@ -100,9 +100,16 @@ The reviews might give revisions and these must be considered in the final camer
 
 ### Presentation Schedule
 
-| Time  | Presenter               | Topic                                                                                                                 |
-| ----- | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-
+| Time  | Presenter            | Topic                                                                                                                                                |
+| ----- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10:00 | Lisa Passing         | An evaluation of human-plant interaction approaches for artistic live performances                                                                   |
+| 10:45 | Moritz Huson         | Datamorphism: Exploring Artistic Perspectives on the Other-Than-Human World Beyond Anthropomorphism                                                  |
+| 11:30 | Maximilian Rueth     | Beyond Human Motion: Exploring Advanced Techniques and Challenges in Animal Motion Capture for Cinematography                                        |
+| 13:15 | Anna Ferro           | A review on AI's Environmental Impact and the Role of Communication                                                                                  |
+| 14:00 | Marek Plichta        | Beyond Eye Candy: Real Time Visual Effects in Video Games Seen Through the Lens of UX Principles                                                     |
+| 15:00 | Adam Streicher       | Creative and Technical Benefits of Previsualization in Virtual Film Production: A Comparative Case Study of Videomatics for In-Camera Visual Effects |
+| 15:45 | Linda Maas           | Current Technologies Enabling Communication for ALS Patients: An overview and recommendations for future research   |
+| 16:45 | Marta Tung Tung Pang | Formal versus Informal Mindfulness Practice: Exploring the Technological Gap and Future Research Directions                                          |
 
 
 
@@ -110,11 +117,11 @@ The reviews might give revisions and these must be considered in the final camer
 
 All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 
-* 30.08.23: Abstract Due
-* 06.09.23: Paper Due
-* 10.09.23: Review Start
-* 27.09.23: Review Due
-* 01.10.23: Author Notification
-* tba: Conference
+* 30.08.24: Abstract Due
+* 06.09.24: Paper Due
+* 10.09.24: Review Start
+* 27.09.24: Review Due
+* 01.10.24: Author Notification
+* 15.11.24: Conference
   
 
