@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
 # Title: 
 
 A Review on AI's Environmental Impact and the Role of Communication

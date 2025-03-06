@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session
+nav_exclude: true
+---
+
 ## Session 01 
 ### 01.01 - Topic Brainstorming
 
